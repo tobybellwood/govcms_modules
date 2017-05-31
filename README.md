@@ -8,4 +8,4 @@ drush pm-refresh --check-disabled
 drush pm-info --format=json > modules_info.json
 
 
-drush pm-updatestatus --check-disabled --format=json > modules_up_20170530.json
+drush pm-updatestatus --check-disabled --format=json > modules_up.json
