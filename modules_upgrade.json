@@ -29568,7 +29568,7 @@
             },
             "7.x-2.x-dev": {
                 "name": "password_policy 7.x-2.x-dev",
-                "date": "1495819084",
+                "date": "1496176742",
                 "status": "published",
                 "version": "7.x-2.x-dev",
                 "tag": "7.x-2.x",
@@ -29576,8 +29576,8 @@
                 "version_extra": "dev",
                 "release_link": "https:\/\/www.drupal.org\/project\/password_policy\/releases\/7.x-2.x-dev",
                 "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/password_policy-7.x-2.x-dev.tar.gz",
-                "mdhash": "4e1cb9d6870fad9e526f753219f8ca5e",
-                "filesize": "31036",
+                "mdhash": "1aa61e87a05289933520778c4a8b1c24",
+                "filesize": "30921",
                 "terms": {
                     "Release type": [
                         "New features",
@@ -29587,16 +29587,16 @@
                 "files": [
                     {
                         "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/password_policy-7.x-2.x-dev.tar.gz",
-                        "date": "1495819084",
-                        "mdhash": "4e1cb9d6870fad9e526f753219f8ca5e",
-                        "filesize": "31036",
+                        "date": "1496176742",
+                        "mdhash": "1aa61e87a05289933520778c4a8b1c24",
+                        "filesize": "30921",
                         "archive_type": "tar.gz"
                     },
                     {
                         "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/password_policy-7.x-2.x-dev.zip",
-                        "date": "1495819084",
-                        "mdhash": "3d872ba8c7bc635491300c6e47874be1",
-                        "filesize": "45726",
+                        "date": "1496176742",
+                        "mdhash": "66dcf6ccf7e7fe89684d97584baa4e98",
+                        "filesize": "45046",
                         "archive_type": "zip"
                     }
                 ],
