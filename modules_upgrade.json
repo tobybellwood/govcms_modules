@@ -8,8 +8,8 @@
         "existing_major": "7",
         "status": 4,
         "datestamp": "1479322922",
-        "latest_version": "7.54",
-        "recommended": "7.54",
+        "latest_version": "7.55",
+        "recommended": "7.55",
         "title": "Drupal core",
         "short_name": "drupal",
         "type": "project_core",
@@ -32,6 +32,44 @@
             ]
         },
         "releases": {
+            "7.55": {
+                "name": "drupal 7.55",
+                "date": "1496873942",
+                "status": "published",
+                "version": "7.55",
+                "tag": "7.55",
+                "version_major": "7",
+                "version_patch": "55",
+                "release_link": "https:\/\/www.drupal.org\/project\/drupal\/releases\/7.55",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/drupal-7.55.tar.gz",
+                "mdhash": "ad97f8c86cee7be9d6ab13724b55fa1c",
+                "filesize": "3277355",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/drupal-7.55.tar.gz",
+                        "date": "1496873942",
+                        "mdhash": "ad97f8c86cee7be9d6ab13724b55fa1c",
+                        "filesize": "3277355",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/drupal-7.55.zip",
+                        "date": "1496873942",
+                        "mdhash": "2e8454e3a4eb8068b1134c52ecae9583",
+                        "filesize": "3793633",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": [
+                    "Supported",
+                    "Recommended"
+                ]
+            },
             "7.54": {
                 "name": "drupal 7.54",
                 "date": "1485986883",
@@ -65,10 +103,7 @@
                         "archive_type": "zip"
                     }
                 ],
-                "release_status": [
-                    "Supported",
-                    "Recommended"
-                ]
+                "release_status": []
             },
             "7.53": {
                 "name": "drupal 7.53",
@@ -2383,7 +2418,7 @@
             },
             "7.x-dev": {
                 "name": "drupal 7.x-dev",
-                "date": "1496805843",
+                "date": "1496873643",
                 "status": "published",
                 "version": "7.x-dev",
                 "tag": "7.x",
@@ -2391,8 +2426,8 @@
                 "version_extra": "dev",
                 "release_link": "https:\/\/www.drupal.org\/project\/drupal\/releases\/7.x-dev",
                 "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/drupal-7.x-dev.tar.gz",
-                "mdhash": "3e2294f14935444b1a265808e904a706",
-                "filesize": "3277692",
+                "mdhash": "e087c9557924de5f7110a4ec846a2404",
+                "filesize": "3277623",
                 "terms": {
                     "Release type": [
                         "Bug fixes",
@@ -2402,16 +2437,16 @@
                 "files": [
                     {
                         "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/drupal-7.x-dev.tar.gz",
-                        "date": "1496805843",
-                        "mdhash": "3e2294f14935444b1a265808e904a706",
-                        "filesize": "3277692",
+                        "date": "1496873643",
+                        "mdhash": "e087c9557924de5f7110a4ec846a2404",
+                        "filesize": "3277623",
                         "archive_type": "tar.gz"
                     },
                     {
                         "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/drupal-7.x-dev.zip",
-                        "date": "1496805843",
-                        "mdhash": "395e7720f751ff775228cbf5d8467210",
-                        "filesize": "3802046",
+                        "date": "1496873643",
+                        "mdhash": "fc780dbfd076c6ed89b03c5bb57f0b8a",
+                        "filesize": "3801918",
                         "archive_type": "zip"
                     }
                 ],
@@ -2420,7 +2455,7 @@
                 ]
             }
         },
-        "candidate_version": "7.54",
+        "candidate_version": "7.55",
         "status_msg": "Update available",
         "updateable": true
     },
