@@ -27623,6 +27623,571 @@
         "status_msg": "Update available",
         "updateable": true
     },
+    "module_filter": {
+        "name": "module_filter",
+        "label": "Module filter (module_filter)",
+        "path": "profiles\/govcms\/modules\/contrib\/module_filter",
+        "install_type": "official",
+        "existing_version": "7.x-2.0",
+        "existing_major": "2",
+        "status": 4,
+        "datestamp": "1424631189",
+        "latest_version": "7.x-2.1",
+        "recommended": "7.x-2.1",
+        "title": "Module Filter",
+        "short_name": "module_filter",
+        "type": "project_module",
+        "api_version": "7.x",
+        "recommended_major": "2",
+        "supported_majors": "2",
+        "default_major": "2",
+        "project_status": "published",
+        "link": "https:\/\/www.drupal.org\/project\/module_filter",
+        "project_type": "module",
+        "terms": {
+            "Projects": [
+                "Modules"
+            ],
+            "Maintenance status": [
+                "Actively maintained"
+            ],
+            "Development status": [
+                "Under active development"
+            ],
+            "Module categories": [
+                "Utility"
+            ]
+        },
+        "releases": {
+            "7.x-2.1": {
+                "name": "module_filter 7.x-2.1",
+                "date": "1497029343",
+                "status": "published",
+                "version": "7.x-2.1",
+                "tag": "7.x-2.1",
+                "version_major": "2",
+                "version_patch": "1",
+                "release_link": "https:\/\/www.drupal.org\/project\/module_filter\/releases\/7.x-2.1",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/module_filter-7.x-2.1.tar.gz",
+                "mdhash": "66a4998f63f2cefe77c18713054a42cc",
+                "filesize": "29757",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/module_filter-7.x-2.1.tar.gz",
+                        "date": "1497029343",
+                        "mdhash": "66a4998f63f2cefe77c18713054a42cc",
+                        "filesize": "29757",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/module_filter-7.x-2.1.zip",
+                        "date": "1497029343",
+                        "mdhash": "9823ec2b6a4c62221761f1b550b2858b",
+                        "filesize": "38865",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": [
+                    "Supported",
+                    "Recommended"
+                ]
+            },
+            "7.x-2.0": {
+                "name": "module_filter 7.x-2.0",
+                "date": "1424631181",
+                "status": "published",
+                "version": "7.x-2.0",
+                "tag": "7.x-2.0",
+                "version_major": "2",
+                "version_patch": "0",
+                "release_link": "https:\/\/www.drupal.org\/project\/module_filter\/releases\/7.x-2.0",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/module_filter-7.x-2.0.tar.gz",
+                "mdhash": "3e2ebdd2f2ec028252e1cf2a547d7d7e",
+                "filesize": "29130",
+                "terms": [],
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/module_filter-7.x-2.0.tar.gz",
+                        "date": "1424631181",
+                        "mdhash": "3e2ebdd2f2ec028252e1cf2a547d7d7e",
+                        "filesize": "29130",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/module_filter-7.x-2.0.zip",
+                        "date": "1424631181",
+                        "mdhash": "b775b30391b2e8eaae85f10496d5b391",
+                        "filesize": "36978",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-2.0-alpha2": {
+                "name": "module_filter 7.x-2.0-alpha2",
+                "date": "1386356904",
+                "status": "published",
+                "version": "7.x-2.0-alpha2",
+                "tag": "7.x-2.0-alpha2",
+                "version_major": "2",
+                "version_patch": "0",
+                "version_extra": "alpha2",
+                "release_link": "https:\/\/www.drupal.org\/project\/module_filter\/releases\/7.x-2.0-alpha2",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/module_filter-7.x-2.0-alpha2.tar.gz",
+                "mdhash": "342e0e3963e64c39f86061a10bbdaf2e",
+                "filesize": "27898",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/module_filter-7.x-2.0-alpha2.tar.gz",
+                        "date": "1386356904",
+                        "mdhash": "342e0e3963e64c39f86061a10bbdaf2e",
+                        "filesize": "27898",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/module_filter-7.x-2.0-alpha2.zip",
+                        "date": "1386356904",
+                        "mdhash": "2093c11e335ff88344958a956e4c0f2a",
+                        "filesize": "35480",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-2.0-alpha1": {
+                "name": "module_filter 7.x-2.0-alpha1",
+                "date": "1384832005",
+                "status": "published",
+                "version": "7.x-2.0-alpha1",
+                "tag": "7.x-2.0-alpha1",
+                "version_major": "2",
+                "version_patch": "0",
+                "version_extra": "alpha1",
+                "release_link": "https:\/\/www.drupal.org\/project\/module_filter\/releases\/7.x-2.0-alpha1",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/module_filter-7.x-2.0-alpha1.tar.gz",
+                "mdhash": "3bfb306828c12830c0ee3678f675f124",
+                "filesize": "27962",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes",
+                        "New features"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/module_filter-7.x-2.0-alpha1.tar.gz",
+                        "date": "1384832005",
+                        "mdhash": "3bfb306828c12830c0ee3678f675f124",
+                        "filesize": "27962",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/module_filter-7.x-2.0-alpha1.zip",
+                        "date": "1384832005",
+                        "mdhash": "68e041f221e5252f2e2941e3b0b2c3b9",
+                        "filesize": "35518",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.8": {
+                "name": "module_filter 7.x-1.8",
+                "date": "1375995221",
+                "status": "published",
+                "version": "7.x-1.8",
+                "tag": "7.x-1.8",
+                "version_major": "1",
+                "version_patch": "8",
+                "release_link": "https:\/\/www.drupal.org\/project\/module_filter\/releases\/7.x-1.8",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/module_filter-7.x-1.8.tar.gz",
+                "mdhash": "53a1b995dee29e1ab202fa1547dc1266",
+                "filesize": "14605",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/module_filter-7.x-1.8.tar.gz",
+                        "date": "1375995221",
+                        "mdhash": "53a1b995dee29e1ab202fa1547dc1266",
+                        "filesize": "14605",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/module_filter-7.x-1.8.zip",
+                        "date": "1375995221",
+                        "mdhash": "ffcdbdfc2a15ae96a83d59bb128946a8",
+                        "filesize": "18222",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.7": {
+                "name": "module_filter 7.x-1.7",
+                "date": "1341518501",
+                "status": "published",
+                "version": "7.x-1.7",
+                "tag": "7.x-1.7",
+                "version_major": "1",
+                "version_patch": "7",
+                "release_link": "https:\/\/www.drupal.org\/project\/module_filter\/releases\/7.x-1.7",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/module_filter-7.x-1.7.tar.gz",
+                "mdhash": "f10e62aa5346d5cd82854d66c359f199",
+                "filesize": "14646",
+                "terms": {
+                    "Release type": [
+                        "New features",
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/module_filter-7.x-1.7.tar.gz",
+                        "date": "1341518501",
+                        "mdhash": "f10e62aa5346d5cd82854d66c359f199",
+                        "filesize": "14646",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/module_filter-7.x-1.7.zip",
+                        "date": "1341518501",
+                        "mdhash": "5a638e8cee7865969a36cec2877dcb92",
+                        "filesize": "18239",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.6": {
+                "name": "module_filter 7.x-1.6",
+                "date": "1316105205",
+                "status": "published",
+                "version": "7.x-1.6",
+                "tag": "7.x-1.6",
+                "version_major": "1",
+                "version_patch": "6",
+                "release_link": "https:\/\/www.drupal.org\/project\/module_filter\/releases\/7.x-1.6",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/module_filter-7.x-1.6.tar.gz",
+                "mdhash": "77ca515021372066e2b19906adddb94e",
+                "filesize": "13177",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/module_filter-7.x-1.6.tar.gz",
+                        "date": "1316105205",
+                        "mdhash": "77ca515021372066e2b19906adddb94e",
+                        "filesize": "13177",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/module_filter-7.x-1.6.zip",
+                        "date": "1316105205",
+                        "mdhash": "4f31da40703a0e680491927104845211",
+                        "filesize": "16707",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.5": {
+                "name": "module_filter 7.x-1.5",
+                "date": "1313598120",
+                "status": "published",
+                "version": "7.x-1.5",
+                "tag": "7.x-1.5",
+                "version_major": "1",
+                "version_patch": "5",
+                "release_link": "https:\/\/www.drupal.org\/project\/module_filter\/releases\/7.x-1.5",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/module_filter-7.x-1.5.tar.gz",
+                "mdhash": "f3a6a44ec3e35e91870f8391a9f04ff5",
+                "filesize": "13039",
+                "terms": {
+                    "Release type": [
+                        "New features"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/module_filter-7.x-1.5.tar.gz",
+                        "date": "1313598120",
+                        "mdhash": "f3a6a44ec3e35e91870f8391a9f04ff5",
+                        "filesize": "13039",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/module_filter-7.x-1.5.zip",
+                        "date": "1313598120",
+                        "mdhash": "578073ac59a163e980fcee02ff1ced24",
+                        "filesize": "16564",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.4": {
+                "name": "module_filter 7.x-1.4",
+                "date": "1299525068",
+                "status": "published",
+                "version": "7.x-1.4",
+                "tag": "7.x-1.4",
+                "version_major": "1",
+                "version_patch": "4",
+                "release_link": "https:\/\/www.drupal.org\/project\/module_filter\/releases\/7.x-1.4",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/module_filter-7.x-1.4.tar.gz",
+                "mdhash": "90d9ec10df0b9ee07707f87b96711bca",
+                "filesize": "11570",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/module_filter-7.x-1.4.tar.gz",
+                        "date": "1299525068",
+                        "mdhash": "90d9ec10df0b9ee07707f87b96711bca",
+                        "filesize": "11570",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/module_filter-7.x-1.4.zip",
+                        "date": "1299525068",
+                        "mdhash": "f59a4ab7edd8c831ab940b8a2c64c8ba",
+                        "filesize": "14803",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.3": {
+                "name": "module_filter 7.x-1.3",
+                "date": "1299519370",
+                "status": "published",
+                "version": "7.x-1.3",
+                "tag": "7.x-1.3",
+                "version_major": "1",
+                "version_patch": "3",
+                "release_link": "https:\/\/www.drupal.org\/project\/module_filter\/releases\/7.x-1.3",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/module_filter-7.x-1.3.tar.gz",
+                "mdhash": "8a075e4932db8cd4e35371ac276bcb4b",
+                "filesize": "11555",
+                "terms": [],
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/module_filter-7.x-1.3.tar.gz",
+                        "date": "1299519370",
+                        "mdhash": "8a075e4932db8cd4e35371ac276bcb4b",
+                        "filesize": "11555",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/module_filter-7.x-1.3.zip",
+                        "date": "1299519370",
+                        "mdhash": "7bda0d1a4359d3eb00c981109c10c6b1",
+                        "filesize": "14794",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.2": {
+                "name": "module_filter 7.x-1.2",
+                "date": "1299516669",
+                "status": "published",
+                "version": "7.x-1.2",
+                "tag": "7.x-1.2",
+                "version_major": "1",
+                "version_patch": "2",
+                "release_link": "https:\/\/www.drupal.org\/project\/module_filter\/releases\/7.x-1.2",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/module_filter-7.x-1.2.tar.gz",
+                "mdhash": "afbb784aeb4029294e5877654385cc8c",
+                "filesize": "11446",
+                "terms": {
+                    "Release type": [
+                        "New features"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/module_filter-7.x-1.2.tar.gz",
+                        "date": "1299516669",
+                        "mdhash": "afbb784aeb4029294e5877654385cc8c",
+                        "filesize": "11446",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/module_filter-7.x-1.2.zip",
+                        "date": "1299516669",
+                        "mdhash": "24171ad9a22efac406f7e90cad4f9e0b",
+                        "filesize": "14633",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.1": {
+                "name": "module_filter 7.x-1.1",
+                "date": "1299515169",
+                "status": "published",
+                "version": "7.x-1.1",
+                "tag": "7.x-1.1",
+                "version_major": "1",
+                "version_patch": "1",
+                "release_link": "https:\/\/www.drupal.org\/project\/module_filter\/releases\/7.x-1.1",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/module_filter-7.x-1.1.tar.gz",
+                "mdhash": "45546c1f5bc473389ffc36f0e38a2bc1",
+                "filesize": "13033",
+                "terms": {
+                    "Release type": [
+                        "New features"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/module_filter-7.x-1.1.tar.gz",
+                        "date": "1299515169",
+                        "mdhash": "45546c1f5bc473389ffc36f0e38a2bc1",
+                        "filesize": "13033",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/module_filter-7.x-1.1.zip",
+                        "date": "1299515169",
+                        "mdhash": "dbe698324408d400f9615380f86d712f",
+                        "filesize": "16571",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.0": {
+                "name": "module_filter 7.x-1.0",
+                "date": "1294104365",
+                "status": "published",
+                "version": "7.x-1.0",
+                "tag": "7.x-1.0",
+                "version_major": "1",
+                "version_patch": "0",
+                "release_link": "https:\/\/www.drupal.org\/project\/module_filter\/releases\/7.x-1.0",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/module_filter-7.x-1.0.tar.gz",
+                "mdhash": "a482aef54751a8fd947bafc2d5ef1ecd",
+                "filesize": "11523",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/module_filter-7.x-1.0.tar.gz",
+                        "date": "1294104365",
+                        "mdhash": "a482aef54751a8fd947bafc2d5ef1ecd",
+                        "filesize": "11523",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/module_filter-7.x-1.0.zip",
+                        "date": "1294104365",
+                        "mdhash": "cb6cee2856235daf966481a640ef3203",
+                        "filesize": "15399",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-2.x-dev": {
+                "name": "module_filter 7.x-2.x-dev",
+                "date": "1497029343",
+                "status": "published",
+                "version": "7.x-2.x-dev",
+                "tag": "7.x-2.x",
+                "version_major": "2",
+                "version_extra": "dev",
+                "release_link": "https:\/\/www.drupal.org\/project\/module_filter\/releases\/7.x-2.x-dev",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/module_filter-7.x-2.x-dev.tar.gz",
+                "mdhash": "bf63bf30b9a6eecb11e527cc12a87312",
+                "filesize": "29762",
+                "terms": {
+                    "Release type": [
+                        "New features"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/module_filter-7.x-2.x-dev.tar.gz",
+                        "date": "1497029343",
+                        "mdhash": "bf63bf30b9a6eecb11e527cc12a87312",
+                        "filesize": "29762",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/module_filter-7.x-2.x-dev.zip",
+                        "date": "1497029343",
+                        "mdhash": "13d2b5f4e49b4ba5a39d83108f274ebf",
+                        "filesize": "38871",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": [
+                    "Development"
+                ]
+            },
+            "7.x-1.x-dev": {
+                "name": "module_filter 7.x-1.x-dev",
+                "date": "1406917428",
+                "status": "published",
+                "version": "7.x-1.x-dev",
+                "tag": "7.x-1.x",
+                "version_major": "1",
+                "version_extra": "dev",
+                "release_link": "https:\/\/www.drupal.org\/project\/module_filter\/releases\/7.x-1.x-dev",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/module_filter-7.x-1.x-dev.tar.gz",
+                "mdhash": "62b7a0ab716b2798d9e60462314d95c5",
+                "filesize": "14743",
+                "terms": [],
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/module_filter-7.x-1.x-dev.tar.gz",
+                        "date": "1406917428",
+                        "mdhash": "62b7a0ab716b2798d9e60462314d95c5",
+                        "filesize": "14743",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/module_filter-7.x-1.x-dev.zip",
+                        "date": "1406917428",
+                        "mdhash": "8165aaeb26b2646a15ad7960608d2f3d",
+                        "filesize": "18379",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": [
+                    "Development"
+                ]
+            }
+        },
+        "candidate_version": "7.x-2.1",
+        "status_msg": "Update available",
+        "updateable": true
+    },
     "navbar": {
         "name": "navbar",
         "label": "Navbar (navbar)",
