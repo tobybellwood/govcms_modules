@@ -30679,7 +30679,7 @@
             },
             "7.x-1.x-dev": {
                 "name": "password_policy 7.x-1.x-dev",
-                "date": "1497476643",
+                "date": "1497646142",
                 "status": "published",
                 "version": "7.x-1.x-dev",
                 "tag": "7.x-1.x",
@@ -30687,22 +30687,22 @@
                 "version_extra": "dev",
                 "release_link": "https:\/\/www.drupal.org\/project\/password_policy\/releases\/7.x-1.x-dev",
                 "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/password_policy-7.x-1.x-dev.tar.gz",
-                "mdhash": "0bdc31e30bd67f9e6bfb60ab70defd2a",
-                "filesize": "47702",
+                "mdhash": "da30d836c54a4c8fb270482bc4a6425f",
+                "filesize": "49246",
                 "terms": [],
                 "files": [
                     {
                         "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/password_policy-7.x-1.x-dev.tar.gz",
-                        "date": "1497476643",
-                        "mdhash": "0bdc31e30bd67f9e6bfb60ab70defd2a",
-                        "filesize": "47702",
+                        "date": "1497646142",
+                        "mdhash": "da30d836c54a4c8fb270482bc4a6425f",
+                        "filesize": "49246",
                         "archive_type": "tar.gz"
                     },
                     {
                         "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/password_policy-7.x-1.x-dev.zip",
-                        "date": "1497476643",
-                        "mdhash": "21f65fd623278f67196031b49f8e5314",
-                        "filesize": "64311",
+                        "date": "1497646142",
+                        "mdhash": "9ed91a75f26d6f340de4f50d44d24723",
+                        "filesize": "67219",
                         "archive_type": "zip"
                     }
                 ],
@@ -31993,6 +31993,691 @@
             }
         },
         "candidate_version": "7.x-3.1",
+        "status_msg": "Update available",
+        "updateable": true
+    },
+    "quicktabs": {
+        "name": "quicktabs",
+        "label": "Quicktabs (quicktabs)",
+        "path": "profiles\/govcms\/modules\/contrib\/quicktabs",
+        "install_type": "official",
+        "existing_version": "7.x-3.6",
+        "existing_major": "3",
+        "status": 4,
+        "datestamp": "1380731929",
+        "latest_version": "7.x-3.8",
+        "recommended": "7.x-3.8",
+        "title": "Quick Tabs",
+        "short_name": "quicktabs",
+        "type": "project_module",
+        "api_version": "7.x",
+        "recommended_major": "3",
+        "supported_majors": "3",
+        "default_major": "3",
+        "project_status": "published",
+        "link": "https:\/\/www.drupal.org\/project\/quicktabs",
+        "project_type": "module",
+        "terms": {
+            "Projects": [
+                "Modules"
+            ],
+            "Maintenance status": [
+                "Actively maintained"
+            ],
+            "Development status": [
+                "Under active development"
+            ],
+            "Module categories": [
+                "Content Display"
+            ]
+        },
+        "releases": {
+            "7.x-3.8": {
+                "name": "quicktabs 7.x-3.8",
+                "date": "1497619442",
+                "status": "published",
+                "version": "7.x-3.8",
+                "tag": "7.x-3.8",
+                "version_major": "3",
+                "version_patch": "8",
+                "release_link": "https:\/\/www.drupal.org\/project\/quicktabs\/releases\/7.x-3.8",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-3.8.tar.gz",
+                "mdhash": "63da431afe05b274f0e8a87a8bb2febf",
+                "filesize": "75912",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-3.8.tar.gz",
+                        "date": "1497619442",
+                        "mdhash": "63da431afe05b274f0e8a87a8bb2febf",
+                        "filesize": "75912",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-3.8.zip",
+                        "date": "1497619442",
+                        "mdhash": "1e6bf1d190239ab2605ddc026a081747",
+                        "filesize": "126563",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": [
+                    "Supported",
+                    "Recommended"
+                ]
+            },
+            "7.x-3.7": {
+                "name": "quicktabs 7.x-3.7",
+                "date": "1497616742",
+                "status": "published",
+                "version": "7.x-3.7",
+                "tag": "7.x-3.7",
+                "version_major": "3",
+                "version_patch": "7",
+                "release_link": "https:\/\/www.drupal.org\/project\/quicktabs\/releases\/7.x-3.7",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-3.7.tar.gz",
+                "mdhash": "32aff4d6407e4d0d564211cfdeaee291",
+                "filesize": "75918",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-3.7.tar.gz",
+                        "date": "1497616742",
+                        "mdhash": "32aff4d6407e4d0d564211cfdeaee291",
+                        "filesize": "75918",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-3.7.zip",
+                        "date": "1497616742",
+                        "mdhash": "c94604aa8841045ecc8449257c7d986d",
+                        "filesize": "126540",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-3.6": {
+                "name": "quicktabs 7.x-3.6",
+                "date": "1380731930",
+                "status": "published",
+                "version": "7.x-3.6",
+                "tag": "7.x-3.6",
+                "version_major": "3",
+                "version_patch": "6",
+                "release_link": "https:\/\/www.drupal.org\/project\/quicktabs\/releases\/7.x-3.6",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-3.6.tar.gz",
+                "mdhash": "b5303635e54ba0677822bf3cd15169d3",
+                "filesize": "75170",
+                "terms": {
+                    "Release type": [
+                        "Security update",
+                        "New features",
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-3.6.tar.gz",
+                        "date": "1380731930",
+                        "mdhash": "b5303635e54ba0677822bf3cd15169d3",
+                        "filesize": "75170",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-3.6.zip",
+                        "date": "1380731930",
+                        "mdhash": "79e2a81b6a5ff0806cf0bfbe175cc3ef",
+                        "filesize": "123906",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": [
+                    "Security"
+                ]
+            },
+            "7.x-3.5": {
+                "name": "quicktabs 7.x-3.5",
+                "date": "1379371264",
+                "status": "published",
+                "version": "7.x-3.5",
+                "tag": "7.x-3.5",
+                "version_major": "3",
+                "version_patch": "5",
+                "release_link": "https:\/\/www.drupal.org\/project\/quicktabs\/releases\/7.x-3.5",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-3.5.tar.gz",
+                "mdhash": "e858cf2dac05ba4e75be5cb34420eeec",
+                "filesize": "74756",
+                "terms": {
+                    "Release type": [
+                        "New features",
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-3.5.tar.gz",
+                        "date": "1379371264",
+                        "mdhash": "e858cf2dac05ba4e75be5cb34420eeec",
+                        "filesize": "74756",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-3.5.zip",
+                        "date": "1379371265",
+                        "mdhash": "9ebec8d89084e593d07945849cac437d",
+                        "filesize": "123387",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-3.4": {
+                "name": "quicktabs 7.x-3.4",
+                "date": "1332980461",
+                "status": "published",
+                "version": "7.x-3.4",
+                "tag": "7.x-3.4",
+                "version_major": "3",
+                "version_patch": "4",
+                "release_link": "https:\/\/www.drupal.org\/project\/quicktabs\/releases\/7.x-3.4",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-3.4.tar.gz",
+                "mdhash": "e83ce594c509577a44305ae2df6aa0f9",
+                "filesize": "74329",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-3.4.tar.gz",
+                        "date": "1332980461",
+                        "mdhash": "e83ce594c509577a44305ae2df6aa0f9",
+                        "filesize": "74329",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-3.4.zip",
+                        "date": "1332980461",
+                        "mdhash": "e9d1995c829d4834fcf3e70523789e59",
+                        "filesize": "122931",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-3.3": {
+                "name": "quicktabs 7.x-3.3",
+                "date": "1326919545",
+                "status": "published",
+                "version": "7.x-3.3",
+                "tag": "7.x-3.3",
+                "version_major": "3",
+                "version_patch": "3",
+                "release_link": "https:\/\/www.drupal.org\/project\/quicktabs\/releases\/7.x-3.3",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-3.3.tar.gz",
+                "mdhash": "fbb89f0a5312265335f4e4dcece951fe",
+                "filesize": "74693",
+                "terms": {
+                    "Release type": [
+                        "Security update"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-3.3.tar.gz",
+                        "date": "1326919545",
+                        "mdhash": "fbb89f0a5312265335f4e4dcece951fe",
+                        "filesize": "74693",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-3.3.zip",
+                        "date": "1326919545",
+                        "mdhash": "f71d03e0825e39053794a44d7e3f09ba",
+                        "filesize": "123201",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": [
+                    "Security"
+                ]
+            },
+            "7.x-3.2": {
+                "name": "quicktabs 7.x-3.2",
+                "date": "1322002246",
+                "status": "published",
+                "version": "7.x-3.2",
+                "tag": "7.x-3.2",
+                "version_major": "3",
+                "version_patch": "2",
+                "release_link": "https:\/\/www.drupal.org\/project\/quicktabs\/releases\/7.x-3.2",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-3.2.tar.gz",
+                "mdhash": "dd699e185849623700473fc0c55251fd",
+                "filesize": "75019",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-3.2.tar.gz",
+                        "date": "1322002246",
+                        "mdhash": "dd699e185849623700473fc0c55251fd",
+                        "filesize": "75019",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-3.2.zip",
+                        "date": "1322002246",
+                        "mdhash": "a5ce8f9829ca7497e4773adeeebf8107",
+                        "filesize": "123515",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-3.1": {
+                "name": "quicktabs 7.x-3.1",
+                "date": "1321421443",
+                "status": "published",
+                "version": "7.x-3.1",
+                "tag": "7.x-3.1",
+                "version_major": "3",
+                "version_patch": "1",
+                "release_link": "https:\/\/www.drupal.org\/project\/quicktabs\/releases\/7.x-3.1",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-3.1.tar.gz",
+                "mdhash": "67e283dd6981dcfa10644d7288636f6c",
+                "filesize": "74986",
+                "terms": {
+                    "Release type": [
+                        "New features",
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-3.1.tar.gz",
+                        "date": "1321421443",
+                        "mdhash": "67e283dd6981dcfa10644d7288636f6c",
+                        "filesize": "74986",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-3.1.zip",
+                        "date": "1321421443",
+                        "mdhash": "63b07595fb3533d44cc733e86e219577",
+                        "filesize": "123438",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-3.0": {
+                "name": "quicktabs 7.x-3.0",
+                "date": "1312172228",
+                "status": "published",
+                "version": "7.x-3.0",
+                "tag": "7.x-3.0",
+                "version_major": "3",
+                "version_patch": "0",
+                "release_link": "https:\/\/www.drupal.org\/project\/quicktabs\/releases\/7.x-3.0",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-3.0.tar.gz",
+                "mdhash": "4c72ff22d7eaa9b3e5bd22acfe5c286e",
+                "filesize": "71391",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-3.0.tar.gz",
+                        "date": "1312172228",
+                        "mdhash": "4c72ff22d7eaa9b3e5bd22acfe5c286e",
+                        "filesize": "71391",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-3.0.zip",
+                        "date": "1312172228",
+                        "mdhash": "94189dcb26a947ee97174f6963c85117",
+                        "filesize": "118436",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-3.0-beta3": {
+                "name": "quicktabs 7.x-3.0-beta3",
+                "date": "1311958019",
+                "status": "published",
+                "version": "7.x-3.0-beta3",
+                "tag": "7.x-3.0-beta3",
+                "version_major": "3",
+                "version_patch": "0",
+                "version_extra": "beta3",
+                "release_link": "https:\/\/www.drupal.org\/project\/quicktabs\/releases\/7.x-3.0-beta3",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-3.0-beta3.tar.gz",
+                "mdhash": "f25f6d00a21f083db6b73726517282e0",
+                "filesize": "70957",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-3.0-beta3.tar.gz",
+                        "date": "1311958019",
+                        "mdhash": "f25f6d00a21f083db6b73726517282e0",
+                        "filesize": "70957",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-3.0-beta3.zip",
+                        "date": "1311958019",
+                        "mdhash": "a05fae256b973f05563f2fc519b6eb9d",
+                        "filesize": "117807",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-3.0-beta2": {
+                "name": "quicktabs 7.x-3.0-beta2",
+                "date": "1311491011",
+                "status": "published",
+                "version": "7.x-3.0-beta2",
+                "tag": "7.x-3.0-beta2",
+                "version_major": "3",
+                "version_patch": "0",
+                "version_extra": "beta2",
+                "release_link": "https:\/\/www.drupal.org\/project\/quicktabs\/releases\/7.x-3.0-beta2",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-3.0-beta2.tar.gz",
+                "mdhash": "fe549974c22f34eedd34255c7188bf4e",
+                "filesize": "70854",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-3.0-beta2.tar.gz",
+                        "date": "1311491011",
+                        "mdhash": "fe549974c22f34eedd34255c7188bf4e",
+                        "filesize": "70854",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-3.0-beta2.zip",
+                        "date": "1311491012",
+                        "mdhash": "4fa96d645fdc203066555d7552830d89",
+                        "filesize": "117426",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-3.0-beta1": {
+                "name": "quicktabs 7.x-3.0-beta1",
+                "date": "1309974420",
+                "status": "published",
+                "version": "7.x-3.0-beta1",
+                "tag": "7.x-3.0-beta1",
+                "version_major": "3",
+                "version_patch": "0",
+                "version_extra": "beta1",
+                "release_link": "https:\/\/www.drupal.org\/project\/quicktabs\/releases\/7.x-3.0-beta1",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-3.0-beta1.tar.gz",
+                "mdhash": "b7568736c672a0f58f780543621755ca",
+                "filesize": "70850",
+                "terms": {
+                    "Release type": [
+                        "New features",
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-3.0-beta1.tar.gz",
+                        "date": "1309974420",
+                        "mdhash": "b7568736c672a0f58f780543621755ca",
+                        "filesize": "70850",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-3.0-beta1.zip",
+                        "date": "1309974421",
+                        "mdhash": "4adaf1eb0ecc5957a2cf05d710cc7983",
+                        "filesize": "117385",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-3.0-alpha2": {
+                "name": "quicktabs 7.x-3.0-alpha2",
+                "date": "1308089219",
+                "status": "published",
+                "version": "7.x-3.0-alpha2",
+                "tag": "7.x-3.0-alpha2",
+                "version_major": "3",
+                "version_patch": "0",
+                "version_extra": "alpha2",
+                "release_link": "https:\/\/www.drupal.org\/project\/quicktabs\/releases\/7.x-3.0-alpha2",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-3.0-alpha2.tar.gz",
+                "mdhash": "5b4fa99ea7b0cf1382ac51fdcad1ad4c",
+                "filesize": "69431",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-3.0-alpha2.tar.gz",
+                        "date": "1308089219",
+                        "mdhash": "5b4fa99ea7b0cf1382ac51fdcad1ad4c",
+                        "filesize": "69431",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-3.0-alpha2.zip",
+                        "date": "1308089219",
+                        "mdhash": "3abd7f0a41328d53ef90fbfc5364b587",
+                        "filesize": "115147",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-3.0-alpha1": {
+                "name": "quicktabs 7.x-3.0-alpha1",
+                "date": "1308027419",
+                "status": "published",
+                "version": "7.x-3.0-alpha1",
+                "tag": "7.x-3.0-alpha1",
+                "version_major": "3",
+                "version_patch": "0",
+                "version_extra": "alpha1",
+                "release_link": "https:\/\/www.drupal.org\/project\/quicktabs\/releases\/7.x-3.0-alpha1",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-3.0-alpha1.tar.gz",
+                "mdhash": "9f86f3615e5a54e038fd9e5a54f98388",
+                "filesize": "69236",
+                "terms": {
+                    "Release type": [
+                        "New features"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-3.0-alpha1.tar.gz",
+                        "date": "1308027419",
+                        "mdhash": "9f86f3615e5a54e038fd9e5a54f98388",
+                        "filesize": "69236",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-3.0-alpha1.zip",
+                        "date": "1308027419",
+                        "mdhash": "63624d80fbff02fc9607e2fa6bd92edf",
+                        "filesize": "114976",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-2.0": {
+                "name": "quicktabs 7.x-2.0",
+                "date": "1312172227",
+                "status": "published",
+                "version": "7.x-2.0",
+                "tag": "7.x-2.0",
+                "version_major": "2",
+                "version_patch": "0",
+                "release_link": "https:\/\/www.drupal.org\/project\/quicktabs\/releases\/7.x-2.0",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-2.0.tar.gz",
+                "mdhash": "40ad6420da071e758c04f5df81693ef5",
+                "filesize": "59833",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-2.0.tar.gz",
+                        "date": "1312172227",
+                        "mdhash": "40ad6420da071e758c04f5df81693ef5",
+                        "filesize": "59833",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-2.0.zip",
+                        "date": "1312172227",
+                        "mdhash": "c7c42ce5d94bf6cf2240a6413d05dbce",
+                        "filesize": "95425",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-2.0-beta1": {
+                "name": "quicktabs 7.x-2.0-beta1",
+                "date": "1301378169",
+                "status": "published",
+                "version": "7.x-2.0-beta1",
+                "tag": "7.x-2.0-beta1",
+                "version_major": "2",
+                "version_patch": "0",
+                "version_extra": "beta1",
+                "release_link": "https:\/\/www.drupal.org\/project\/quicktabs\/releases\/7.x-2.0-beta1",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-2.0-beta1.tar.gz",
+                "mdhash": "abd93c7fc0a33eeacd769a3d87bf9534",
+                "filesize": "59501",
+                "terms": [],
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-2.0-beta1.tar.gz",
+                        "date": "1301378169",
+                        "mdhash": "abd93c7fc0a33eeacd769a3d87bf9534",
+                        "filesize": "59501",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-2.0-beta1.zip",
+                        "date": "1301378169",
+                        "mdhash": "94f4b55522cf37be987d06aa20dd8369",
+                        "filesize": "95009",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-3.x-dev": {
+                "name": "quicktabs 7.x-3.x-dev",
+                "date": "1497619142",
+                "status": "published",
+                "version": "7.x-3.x-dev",
+                "tag": "7.x-3.x",
+                "version_major": "3",
+                "version_extra": "dev",
+                "release_link": "https:\/\/www.drupal.org\/project\/quicktabs\/releases\/7.x-3.x-dev",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-3.x-dev.tar.gz",
+                "mdhash": "bfb92f666c8f2e972961a1dc7953966a",
+                "filesize": "75919",
+                "terms": {
+                    "Release type": [
+                        "New features"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-3.x-dev.tar.gz",
+                        "date": "1497619142",
+                        "mdhash": "bfb92f666c8f2e972961a1dc7953966a",
+                        "filesize": "75919",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-3.x-dev.zip",
+                        "date": "1497619142",
+                        "mdhash": "97b88aab83627ac2a0f358ad5f924aa3",
+                        "filesize": "126573",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": [
+                    "Development"
+                ]
+            },
+            "7.x-2.x-dev": {
+                "name": "quicktabs 7.x-2.x-dev",
+                "date": "1380624610",
+                "status": "published",
+                "version": "7.x-2.x-dev",
+                "tag": "7.x-2.x",
+                "version_major": "2",
+                "version_extra": "dev",
+                "release_link": "https:\/\/www.drupal.org\/project\/quicktabs\/releases\/7.x-2.x-dev",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-2.x-dev.tar.gz",
+                "mdhash": "38b7a23c5a2201c1e9d4b9eace929654",
+                "filesize": "61020",
+                "terms": [],
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-2.x-dev.tar.gz",
+                        "date": "1380624610",
+                        "mdhash": "38b7a23c5a2201c1e9d4b9eace929654",
+                        "filesize": "61020",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/quicktabs-7.x-2.x-dev.zip",
+                        "date": "1380624611",
+                        "mdhash": "3c85af5e07f46d3039b0a56f1ed297e9",
+                        "filesize": "96540",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": [
+                    "Development"
+                ]
+            }
+        },
+        "candidate_version": "7.x-3.8",
         "status_msg": "Update available",
         "updateable": true
     },
