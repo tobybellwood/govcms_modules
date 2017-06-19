@@ -18257,8 +18257,8 @@
         "existing_major": "2",
         "status": 4,
         "datestamp": "1464653173",
-        "latest_version": "7.x-2.1",
-        "recommended": "7.x-2.1",
+        "latest_version": "7.x-2.2",
+        "recommended": "7.x-2.2",
         "title": "File Entity (fieldable files)",
         "short_name": "file_entity",
         "type": "project_module",
@@ -18281,6 +18281,44 @@
             ]
         },
         "releases": {
+            "7.x-2.2": {
+                "name": "file_entity 7.x-2.2",
+                "date": "1497884642",
+                "status": "published",
+                "version": "7.x-2.2",
+                "tag": "7.x-2.2",
+                "version_major": "2",
+                "version_patch": "2",
+                "release_link": "https:\/\/www.drupal.org\/project\/file_entity\/releases\/7.x-2.2",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/file_entity-7.x-2.2.tar.gz",
+                "mdhash": "a6de4208018e23442cccaa37c9f1f70a",
+                "filesize": "100770",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/file_entity-7.x-2.2.tar.gz",
+                        "date": "1497884642",
+                        "mdhash": "a6de4208018e23442cccaa37c9f1f70a",
+                        "filesize": "100770",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/file_entity-7.x-2.2.zip",
+                        "date": "1497884642",
+                        "mdhash": "04ac2c1b06a250351db93f6546cd546c",
+                        "filesize": "122519",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": [
+                    "Supported",
+                    "Recommended"
+                ]
+            },
             "7.x-2.1": {
                 "name": "file_entity 7.x-2.1",
                 "date": "1496523842",
@@ -18315,10 +18353,7 @@
                         "archive_type": "zip"
                     }
                 ],
-                "release_status": [
-                    "Supported",
-                    "Recommended"
-                ]
+                "release_status": []
             },
             "7.x-2.0": {
                 "name": "file_entity 7.x-2.0",
@@ -18860,7 +18895,7 @@
                 ]
             }
         },
-        "candidate_version": "7.x-2.1",
+        "candidate_version": "7.x-2.2",
         "status_msg": "Update available",
         "updateable": true
     },
@@ -43919,7 +43954,7 @@
             },
             "7.x-4.x-dev": {
                 "name": "webform 7.x-4.x-dev",
-                "date": "1496432042",
+                "date": "1497885842",
                 "status": "published",
                 "version": "7.x-4.x-dev",
                 "tag": "7.x-4.x",
@@ -43927,22 +43962,22 @@
                 "version_extra": "dev",
                 "release_link": "https:\/\/www.drupal.org\/project\/webform\/releases\/7.x-4.x-dev",
                 "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/webform-7.x-4.x-dev.tar.gz",
-                "mdhash": "49106388eca280b54efb57ed52f542cb",
-                "filesize": "247654",
+                "mdhash": "612eeea184f80a649bed22417af12b9f",
+                "filesize": "247569",
                 "terms": [],
                 "files": [
                     {
                         "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/webform-7.x-4.x-dev.tar.gz",
-                        "date": "1496432042",
-                        "mdhash": "49106388eca280b54efb57ed52f542cb",
-                        "filesize": "247654",
+                        "date": "1497885842",
+                        "mdhash": "612eeea184f80a649bed22417af12b9f",
+                        "filesize": "247569",
                         "archive_type": "tar.gz"
                     },
                     {
                         "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/webform-7.x-4.x-dev.zip",
-                        "date": "1496432042",
-                        "mdhash": "cf5dcb1e87308c0854c065d04f856a07",
-                        "filesize": "299160",
+                        "date": "1497885842",
+                        "mdhash": "0f8267739cfb9fa809dae984eb9f221e",
+                        "filesize": "299082",
                         "archive_type": "zip"
                     }
                 ],
