@@ -6,10 +6,51 @@
         "install_type": "official",
         "existing_version": "7.52",
         "existing_major": "7",
-        "status": 4,
+        "status": 1,
         "datestamp": "1479322922",
-        "latest_version": "7.55",
-        "recommended": "7.55",
+        "latest_version": "7.56",
+        "recommended": "7.56",
+        "security updates": [
+            {
+                "name": "drupal 7.56",
+                "date": "1498069782",
+                "status": "published",
+                "version": "7.56",
+                "tag": "7.56",
+                "version_major": "7",
+                "version_patch": "56",
+                "release_link": "https:\/\/www.drupal.org\/project\/drupal\/releases\/7.56",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/drupal-7.56.tar.gz",
+                "mdhash": "5d198f40f0f1cbf9cdf1bf3de842e534",
+                "filesize": "3277833",
+                "terms": {
+                    "Release type": [
+                        "Security update"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/drupal-7.56.tar.gz",
+                        "date": "1498069782",
+                        "mdhash": "5d198f40f0f1cbf9cdf1bf3de842e534",
+                        "filesize": "3277833",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/drupal-7.56.zip",
+                        "date": "1498069782",
+                        "mdhash": "a8b0f98c21e8885560403fb30bc6f12f",
+                        "filesize": "3794615",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": [
+                    "Security",
+                    "Supported",
+                    "Recommended"
+                ]
+            }
+        ],
         "title": "Drupal core",
         "short_name": "drupal",
         "type": "project_core",
@@ -32,6 +73,45 @@
             ]
         },
         "releases": {
+            "7.56": {
+                "name": "drupal 7.56",
+                "date": "1498069782",
+                "status": "published",
+                "version": "7.56",
+                "tag": "7.56",
+                "version_major": "7",
+                "version_patch": "56",
+                "release_link": "https:\/\/www.drupal.org\/project\/drupal\/releases\/7.56",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/drupal-7.56.tar.gz",
+                "mdhash": "5d198f40f0f1cbf9cdf1bf3de842e534",
+                "filesize": "3277833",
+                "terms": {
+                    "Release type": [
+                        "Security update"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/drupal-7.56.tar.gz",
+                        "date": "1498069782",
+                        "mdhash": "5d198f40f0f1cbf9cdf1bf3de842e534",
+                        "filesize": "3277833",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/drupal-7.56.zip",
+                        "date": "1498069782",
+                        "mdhash": "a8b0f98c21e8885560403fb30bc6f12f",
+                        "filesize": "3794615",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": [
+                    "Security",
+                    "Supported",
+                    "Recommended"
+                ]
+            },
             "7.55": {
                 "name": "drupal 7.55",
                 "date": "1496873942",
@@ -65,10 +145,7 @@
                         "archive_type": "zip"
                     }
                 ],
-                "release_status": [
-                    "Supported",
-                    "Recommended"
-                ]
+                "release_status": []
             },
             "7.54": {
                 "name": "drupal 7.54",
@@ -2418,7 +2495,7 @@
             },
             "7.x-dev": {
                 "name": "drupal 7.x-dev",
-                "date": "1496873643",
+                "date": "1498069442",
                 "status": "published",
                 "version": "7.x-dev",
                 "tag": "7.x",
@@ -2426,8 +2503,8 @@
                 "version_extra": "dev",
                 "release_link": "https:\/\/www.drupal.org\/project\/drupal\/releases\/7.x-dev",
                 "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/drupal-7.x-dev.tar.gz",
-                "mdhash": "e087c9557924de5f7110a4ec846a2404",
-                "filesize": "3277623",
+                "mdhash": "6b933f42d2f728053b2c5346099b9dac",
+                "filesize": "3277810",
                 "terms": {
                     "Release type": [
                         "Bug fixes",
@@ -2437,16 +2514,16 @@
                 "files": [
                     {
                         "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/drupal-7.x-dev.tar.gz",
-                        "date": "1496873643",
-                        "mdhash": "e087c9557924de5f7110a4ec846a2404",
-                        "filesize": "3277623",
+                        "date": "1498069442",
+                        "mdhash": "6b933f42d2f728053b2c5346099b9dac",
+                        "filesize": "3277810",
                         "archive_type": "tar.gz"
                     },
                     {
                         "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/drupal-7.x-dev.zip",
-                        "date": "1496873643",
-                        "mdhash": "fc780dbfd076c6ed89b03c5bb57f0b8a",
-                        "filesize": "3801918",
+                        "date": "1498069442",
+                        "mdhash": "c721a62481883f4aef3daaff766750cf",
+                        "filesize": "3802908",
                         "archive_type": "zip"
                     }
                 ],
@@ -2455,8 +2532,8 @@
                 ]
             }
         },
-        "candidate_version": "7.55",
-        "status_msg": "Update available",
+        "candidate_version": "7.56",
+        "status_msg": "SECURITY UPDATE available",
         "updateable": true
     },
     "accessible_forms": {
@@ -21142,7 +21219,7 @@
             },
             "7.x-3.x-dev": {
                 "name": "hierarchical_select 7.x-3.x-dev",
-                "date": "1487560984",
+                "date": "1498015745",
                 "status": "published",
                 "version": "7.x-3.x-dev",
                 "tag": "7.x-3.x",
@@ -21150,8 +21227,8 @@
                 "version_extra": "dev",
                 "release_link": "https:\/\/www.drupal.org\/project\/hierarchical_select\/releases\/7.x-3.x-dev",
                 "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/hierarchical_select-7.x-3.x-dev.tar.gz",
-                "mdhash": "5db2985ccd144f237fa44281ea43c804",
-                "filesize": "83906",
+                "mdhash": "c7c56f47da0ab947f77f87e50c0f2fa3",
+                "filesize": "83909",
                 "terms": {
                     "Release type": [
                         "New features",
@@ -21161,16 +21238,16 @@
                 "files": [
                     {
                         "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/hierarchical_select-7.x-3.x-dev.tar.gz",
-                        "date": "1487560984",
-                        "mdhash": "5db2985ccd144f237fa44281ea43c804",
-                        "filesize": "83906",
+                        "date": "1498015745",
+                        "mdhash": "c7c56f47da0ab947f77f87e50c0f2fa3",
+                        "filesize": "83909",
                         "archive_type": "tar.gz"
                     },
                     {
                         "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/hierarchical_select-7.x-3.x-dev.zip",
-                        "date": "1487560984",
-                        "mdhash": "652aaecd86df9bb10941c2c71e231dbe",
-                        "filesize": "100839",
+                        "date": "1498015745",
+                        "mdhash": "913034d09bdcfb6e6cd06e91bfb21a9f",
+                        "filesize": "100841",
                         "archive_type": "zip"
                     }
                 ],
@@ -34279,6 +34356,513 @@
         },
         "candidate_version": "7.x-2.10",
         "status_msg": "Update available",
+        "updateable": true
+    },
+    "search404": {
+        "name": "search404",
+        "label": "Search 404 (search404)",
+        "path": "profiles\/govcms\/modules\/contrib\/search404",
+        "install_type": "official",
+        "existing_version": "7.x-1.4",
+        "existing_major": "1",
+        "status": 1,
+        "datestamp": "1456722437",
+        "latest_version": "7.x-1.5",
+        "recommended": "7.x-1.5",
+        "security updates": [
+            {
+                "name": "search404 7.x-1.5",
+                "date": "1498025043",
+                "status": "published",
+                "version": "7.x-1.5",
+                "tag": "7.x-1.5",
+                "version_major": "1",
+                "version_patch": "5",
+                "release_link": "https:\/\/www.drupal.org\/project\/search404\/releases\/7.x-1.5",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/search404-7.x-1.5.tar.gz",
+                "mdhash": "04222fd19fe6cf40724216be6d4f62ca",
+                "filesize": "17026",
+                "terms": {
+                    "Release type": [
+                        "Security update"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/search404-7.x-1.5.tar.gz",
+                        "date": "1498025043",
+                        "mdhash": "04222fd19fe6cf40724216be6d4f62ca",
+                        "filesize": "17026",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/search404-7.x-1.5.zip",
+                        "date": "1498025043",
+                        "mdhash": "43cf53e38c292f6b0bd89f3439762601",
+                        "filesize": "20208",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": [
+                    "Security",
+                    "Supported",
+                    "Recommended"
+                ]
+            }
+        ],
+        "title": "Search 404",
+        "short_name": "search404",
+        "type": "project_module",
+        "api_version": "7.x",
+        "recommended_major": "1",
+        "supported_majors": "1",
+        "default_major": "1",
+        "project_status": "published",
+        "link": "https:\/\/www.drupal.org\/project\/search404",
+        "project_type": "module",
+        "terms": {
+            "Projects": [
+                "Modules"
+            ],
+            "Maintenance status": [
+                "Actively maintained"
+            ],
+            "Development status": [
+                "Under active development"
+            ],
+            "Module categories": [
+                "SEO"
+            ]
+        },
+        "releases": {
+            "7.x-1.5": {
+                "name": "search404 7.x-1.5",
+                "date": "1498025043",
+                "status": "published",
+                "version": "7.x-1.5",
+                "tag": "7.x-1.5",
+                "version_major": "1",
+                "version_patch": "5",
+                "release_link": "https:\/\/www.drupal.org\/project\/search404\/releases\/7.x-1.5",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/search404-7.x-1.5.tar.gz",
+                "mdhash": "04222fd19fe6cf40724216be6d4f62ca",
+                "filesize": "17026",
+                "terms": {
+                    "Release type": [
+                        "Security update"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/search404-7.x-1.5.tar.gz",
+                        "date": "1498025043",
+                        "mdhash": "04222fd19fe6cf40724216be6d4f62ca",
+                        "filesize": "17026",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/search404-7.x-1.5.zip",
+                        "date": "1498025043",
+                        "mdhash": "43cf53e38c292f6b0bd89f3439762601",
+                        "filesize": "20208",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": [
+                    "Security",
+                    "Supported",
+                    "Recommended"
+                ]
+            },
+            "7.x-1.4": {
+                "name": "search404 7.x-1.4",
+                "date": "1456720903",
+                "status": "published",
+                "version": "7.x-1.4",
+                "tag": "7.x-1.4",
+                "version_major": "1",
+                "version_patch": "4",
+                "release_link": "https:\/\/www.drupal.org\/project\/search404\/releases\/7.x-1.4",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/search404-7.x-1.4.tar.gz",
+                "mdhash": "356e5ef942940ace3d7e8ebb5844d72a",
+                "filesize": "13580",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes",
+                        "New features"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/search404-7.x-1.4.tar.gz",
+                        "date": "1456720903",
+                        "mdhash": "356e5ef942940ace3d7e8ebb5844d72a",
+                        "filesize": "13580",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/search404-7.x-1.4.zip",
+                        "date": "1456720903",
+                        "mdhash": "a2572e507913ad749a86682d432ea34b",
+                        "filesize": "16340",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.3": {
+                "name": "search404 7.x-1.3",
+                "date": "1370809553",
+                "status": "published",
+                "version": "7.x-1.3",
+                "tag": "7.x-1.3",
+                "version_major": "1",
+                "version_patch": "3",
+                "release_link": "https:\/\/www.drupal.org\/project\/search404\/releases\/7.x-1.3",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/search404-7.x-1.3.tar.gz",
+                "mdhash": "bcafba7546b481ec701d156af40dd352",
+                "filesize": "12933",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/search404-7.x-1.3.tar.gz",
+                        "date": "1370809553",
+                        "mdhash": "bcafba7546b481ec701d156af40dd352",
+                        "filesize": "12933",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/search404-7.x-1.3.zip",
+                        "date": "1370809553",
+                        "mdhash": "9afd14babd3be8ac5cfa94ada52f13fb",
+                        "filesize": "14334",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.3-beta1": {
+                "name": "search404 7.x-1.3-beta1",
+                "date": "1369648562",
+                "status": "published",
+                "version": "7.x-1.3-beta1",
+                "tag": "7.x-1.3-beta1",
+                "version_major": "1",
+                "version_patch": "3",
+                "version_extra": "beta1",
+                "release_link": "https:\/\/www.drupal.org\/project\/search404\/releases\/7.x-1.3-beta1",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/search404-7.x-1.3-beta1.tar.gz",
+                "mdhash": "55f9768e40d59a0605f64a74dbee433a",
+                "filesize": "12939",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/search404-7.x-1.3-beta1.tar.gz",
+                        "date": "1369648562",
+                        "mdhash": "55f9768e40d59a0605f64a74dbee433a",
+                        "filesize": "12939",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/search404-7.x-1.3-beta1.zip",
+                        "date": "1369648562",
+                        "mdhash": "0195734487e6d4b3fca4e307929234ab",
+                        "filesize": "14339",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.3-alpha1": {
+                "name": "search404 7.x-1.3-alpha1",
+                "date": "1369084217",
+                "status": "published",
+                "version": "7.x-1.3-alpha1",
+                "tag": "7.x-1.3-alpha1",
+                "version_major": "1",
+                "version_patch": "3",
+                "version_extra": "alpha1",
+                "release_link": "https:\/\/www.drupal.org\/project\/search404\/releases\/7.x-1.3-alpha1",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/search404-7.x-1.3-alpha1.tar.gz",
+                "mdhash": "e1bc82f3b58014b52d32e5488b49f808",
+                "filesize": "12933",
+                "terms": [],
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/search404-7.x-1.3-alpha1.tar.gz",
+                        "date": "1369084217",
+                        "mdhash": "e1bc82f3b58014b52d32e5488b49f808",
+                        "filesize": "12933",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/search404-7.x-1.3-alpha1.zip",
+                        "date": "1369084217",
+                        "mdhash": "69e164649262af9436336ac54918998c",
+                        "filesize": "14338",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.2": {
+                "name": "search404 7.x-1.2",
+                "date": "1343685740",
+                "status": "published",
+                "version": "7.x-1.2",
+                "tag": "7.x-1.2",
+                "version_major": "1",
+                "version_patch": "2",
+                "release_link": "https:\/\/www.drupal.org\/project\/search404\/releases\/7.x-1.2",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/search404-7.x-1.2.tar.gz",
+                "mdhash": "db44d1c08a56fa4985552ab42f9aabb0",
+                "filesize": "12716",
+                "terms": {
+                    "Release type": [
+                        "New features",
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/search404-7.x-1.2.tar.gz",
+                        "date": "1343685740",
+                        "mdhash": "db44d1c08a56fa4985552ab42f9aabb0",
+                        "filesize": "12716",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/search404-7.x-1.2.zip",
+                        "date": "1343685740",
+                        "mdhash": "cdce99e0cadd48957315b6ae4cce939c",
+                        "filesize": "14137",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.2-beta1": {
+                "name": "search404 7.x-1.2-beta1",
+                "date": "1342273363",
+                "status": "published",
+                "version": "7.x-1.2-beta1",
+                "tag": "7.x-1.2-beta1",
+                "version_major": "1",
+                "version_patch": "2",
+                "version_extra": "beta1",
+                "release_link": "https:\/\/www.drupal.org\/project\/search404\/releases\/7.x-1.2-beta1",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/search404-7.x-1.2-beta1.tar.gz",
+                "mdhash": "6f62a07c842708ea942a2ac29cb0b1f5",
+                "filesize": "12736",
+                "terms": {
+                    "Release type": [
+                        "New features",
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/search404-7.x-1.2-beta1.tar.gz",
+                        "date": "1342273363",
+                        "mdhash": "6f62a07c842708ea942a2ac29cb0b1f5",
+                        "filesize": "12736",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/search404-7.x-1.2-beta1.zip",
+                        "date": "1342273364",
+                        "mdhash": "95539e04defbf19298192bf52ebd5080",
+                        "filesize": "14152",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.2-alpha1": {
+                "name": "search404 7.x-1.2-alpha1",
+                "date": "1341175062",
+                "status": "published",
+                "version": "7.x-1.2-alpha1",
+                "tag": "7.x-1.2-alpha1",
+                "version_major": "1",
+                "version_patch": "2",
+                "version_extra": "alpha1",
+                "release_link": "https:\/\/www.drupal.org\/project\/search404\/releases\/7.x-1.2-alpha1",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/search404-7.x-1.2-alpha1.tar.gz",
+                "mdhash": "389878304fe1edf2a50217edf5bc4c0d",
+                "filesize": "12734",
+                "terms": {
+                    "Release type": [
+                        "New features",
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/search404-7.x-1.2-alpha1.tar.gz",
+                        "date": "1341175062",
+                        "mdhash": "389878304fe1edf2a50217edf5bc4c0d",
+                        "filesize": "12734",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/search404-7.x-1.2-alpha1.zip",
+                        "date": "1341175062",
+                        "mdhash": "682de42f210617a4a6b9c4740c6ae138",
+                        "filesize": "14152",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.1": {
+                "name": "search404 7.x-1.1",
+                "date": "1315489921",
+                "status": "published",
+                "version": "7.x-1.1",
+                "tag": "7.x-1.1",
+                "version_major": "1",
+                "version_patch": "1",
+                "release_link": "https:\/\/www.drupal.org\/project\/search404\/releases\/7.x-1.1",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/search404-7.x-1.1.tar.gz",
+                "mdhash": "4ddbd827e242fd6d218d8bba5d4cf78c",
+                "filesize": "11082",
+                "terms": {
+                    "Release type": [
+                        "New features",
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/search404-7.x-1.1.tar.gz",
+                        "date": "1315489921",
+                        "mdhash": "4ddbd827e242fd6d218d8bba5d4cf78c",
+                        "filesize": "11082",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/search404-7.x-1.1.zip",
+                        "date": "1315489922",
+                        "mdhash": "26ff2f069558dc15a0e5541ebb24a1d4",
+                        "filesize": "12443",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.1-rc1": {
+                "name": "search404 7.x-1.1-rc1",
+                "date": "1313887865",
+                "status": "published",
+                "version": "7.x-1.1-rc1",
+                "tag": "7.x-1.1-rc1",
+                "version_major": "1",
+                "version_patch": "1",
+                "version_extra": "rc1",
+                "release_link": "https:\/\/www.drupal.org\/project\/search404\/releases\/7.x-1.1-rc1",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/search404-7.x-1.1-rc1.tar.gz",
+                "mdhash": "ccb150a5f18d84b9c15b257fd27466f8",
+                "filesize": "11084",
+                "terms": {
+                    "Release type": [
+                        "New features",
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/search404-7.x-1.1-rc1.tar.gz",
+                        "date": "1313887865",
+                        "mdhash": "ccb150a5f18d84b9c15b257fd27466f8",
+                        "filesize": "11084",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/search404-7.x-1.1-rc1.zip",
+                        "date": "1313887865",
+                        "mdhash": "2d70972e5d058b4d1cec46ee479b9f95",
+                        "filesize": "12447",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.0": {
+                "name": "search404 7.x-1.0",
+                "date": "1292793666",
+                "status": "published",
+                "version": "7.x-1.0",
+                "tag": "7.x-1.0",
+                "version_major": "1",
+                "version_patch": "0",
+                "release_link": "https:\/\/www.drupal.org\/project\/search404\/releases\/7.x-1.0",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/search404-7.x-1.0.tar.gz",
+                "mdhash": "4c53c252a357186069576d30e9b606dd",
+                "filesize": "11981",
+                "terms": [],
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/search404-7.x-1.0.tar.gz",
+                        "date": "1292793666",
+                        "mdhash": "4c53c252a357186069576d30e9b606dd",
+                        "filesize": "11981",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/search404-7.x-1.0.zip",
+                        "date": "1293234404",
+                        "mdhash": "426a577aa4b91eb9d0fe795854703fee",
+                        "filesize": "13595",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.x-dev": {
+                "name": "search404 7.x-1.x-dev",
+                "date": "1498024743",
+                "status": "published",
+                "version": "7.x-1.x-dev",
+                "tag": "7.x-1.x",
+                "version_major": "1",
+                "version_extra": "dev",
+                "release_link": "https:\/\/www.drupal.org\/project\/search404\/releases\/7.x-1.x-dev",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/search404-7.x-1.x-dev.tar.gz",
+                "mdhash": "074f72d42e54824daeb271cce911ea75",
+                "filesize": "17035",
+                "terms": [],
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/search404-7.x-1.x-dev.tar.gz",
+                        "date": "1498024743",
+                        "mdhash": "074f72d42e54824daeb271cce911ea75",
+                        "filesize": "17035",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/search404-7.x-1.x-dev.zip",
+                        "date": "1498024743",
+                        "mdhash": "67304221aacf0dd39837fc5ed89124a0",
+                        "filesize": "20213",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": [
+                    "Development"
+                ]
+            }
+        },
+        "candidate_version": "7.x-1.5",
+        "status_msg": "SECURITY UPDATE available",
         "updateable": true
     },
     "search_api": {
