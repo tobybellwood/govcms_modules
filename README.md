@@ -3,6 +3,7 @@
 drush vset update_check_disabled 1 -y
 
 drush cache-clear drush
+
 drush pm-refresh --check-disabled
 
 drush pm-info --format=json > modules_info.json
