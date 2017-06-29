@@ -18940,7 +18940,7 @@
             },
             "7.x-2.x-dev": {
                 "name": "file_entity 7.x-2.x-dev",
-                "date": "1497789242",
+                "date": "1498678743",
                 "status": "published",
                 "version": "7.x-2.x-dev",
                 "tag": "7.x-2.x",
@@ -18948,22 +18948,22 @@
                 "version_extra": "dev",
                 "release_link": "https:\/\/www.drupal.org\/project\/file_entity\/releases\/7.x-2.x-dev",
                 "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/file_entity-7.x-2.x-dev.tar.gz",
-                "mdhash": "e5e720a1dff1ae8f4a72f48ee03de007",
-                "filesize": "100775",
+                "mdhash": "3beb7b0c08a8335fc1f3171ce4bbcda6",
+                "filesize": "101283",
                 "terms": [],
                 "files": [
                     {
                         "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/file_entity-7.x-2.x-dev.tar.gz",
-                        "date": "1497789242",
-                        "mdhash": "e5e720a1dff1ae8f4a72f48ee03de007",
-                        "filesize": "100775",
+                        "date": "1498678743",
+                        "mdhash": "3beb7b0c08a8335fc1f3171ce4bbcda6",
+                        "filesize": "101283",
                         "archive_type": "tar.gz"
                     },
                     {
                         "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/file_entity-7.x-2.x-dev.zip",
-                        "date": "1497789242",
-                        "mdhash": "6f67f4af6784af72af852949c96f416b",
-                        "filesize": "122529",
+                        "date": "1498678743",
+                        "mdhash": "d1ae0dbff838052eb700267e1bf8619b",
+                        "filesize": "122944",
                         "archive_type": "zip"
                     }
                 ],
@@ -23046,7 +23046,7 @@
             },
             "7.x-1.x-dev": {
                 "name": "link 7.x-1.x-dev",
-                "date": "1498505942",
+                "date": "1498650542",
                 "status": "published",
                 "version": "7.x-1.x-dev",
                 "tag": "7.x-1.x",
@@ -23054,22 +23054,22 @@
                 "version_extra": "dev",
                 "release_link": "https:\/\/www.drupal.org\/project\/link\/releases\/7.x-1.x-dev",
                 "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/link-7.x-1.x-dev.tar.gz",
-                "mdhash": "1332a4392a718daae40f5246e8f09684",
-                "filesize": "37237",
+                "mdhash": "33d445827f28a2ba00dc2ba96ebfded0",
+                "filesize": "37329",
                 "terms": [],
                 "files": [
                     {
                         "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/link-7.x-1.x-dev.tar.gz",
-                        "date": "1498505942",
-                        "mdhash": "1332a4392a718daae40f5246e8f09684",
-                        "filesize": "37237",
+                        "date": "1498650542",
+                        "mdhash": "33d445827f28a2ba00dc2ba96ebfded0",
+                        "filesize": "37329",
                         "archive_type": "tar.gz"
                     },
                     {
                         "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/link-7.x-1.x-dev.zip",
-                        "date": "1498505942",
-                        "mdhash": "15b887744f91dcbde798c5df99a50fa3",
-                        "filesize": "47272",
+                        "date": "1498650542",
+                        "mdhash": "12cd027d8f137f9cf3909c09de85e472",
+                        "filesize": "47408",
                         "archive_type": "zip"
                     }
                 ],
@@ -26301,7 +26301,7 @@
             },
             "7.x-3.x-dev": {
                 "name": "media 7.x-3.x-dev",
-                "date": "1497597243",
+                "date": "1498682644",
                 "status": "published",
                 "version": "7.x-3.x-dev",
                 "tag": "7.x-3.x",
@@ -26309,8 +26309,8 @@
                 "version_extra": "dev",
                 "release_link": "https:\/\/www.drupal.org\/project\/media\/releases\/7.x-3.x-dev",
                 "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/media-7.x-3.x-dev.tar.gz",
-                "mdhash": "a1b07dd59f5581ce02d6723379d27af3",
-                "filesize": "143533",
+                "mdhash": "732e7f999e3b20b4b7385c2f6a821302",
+                "filesize": "143572",
                 "terms": {
                     "Release type": [
                         "Bug fixes",
@@ -26320,16 +26320,16 @@
                 "files": [
                     {
                         "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/media-7.x-3.x-dev.tar.gz",
-                        "date": "1497597243",
-                        "mdhash": "a1b07dd59f5581ce02d6723379d27af3",
-                        "filesize": "143533",
+                        "date": "1498682644",
+                        "mdhash": "732e7f999e3b20b4b7385c2f6a821302",
+                        "filesize": "143572",
                         "archive_type": "tar.gz"
                     },
                     {
                         "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/media-7.x-3.x-dev.zip",
-                        "date": "1497597243",
-                        "mdhash": "5aeebf93a1a4e536cde97f1f6e674499",
-                        "filesize": "192703",
+                        "date": "1498682644",
+                        "mdhash": "065a557deed580b80b7e923faaa5dad7",
+                        "filesize": "192748",
                         "archive_type": "zip"
                     }
                 ],
@@ -26339,7 +26339,7 @@
             },
             "7.x-2.x-dev": {
                 "name": "media 7.x-2.x-dev",
-                "date": "1497597243",
+                "date": "1498682644",
                 "status": "published",
                 "version": "7.x-2.x-dev",
                 "tag": "7.x-2.x",
@@ -26347,8 +26347,8 @@
                 "version_extra": "dev",
                 "release_link": "https:\/\/www.drupal.org\/project\/media\/releases\/7.x-2.x-dev",
                 "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/media-7.x-2.x-dev.tar.gz",
-                "mdhash": "337a6bf4ee5134c58118a7ff79d4496b",
-                "filesize": "143272",
+                "mdhash": "1a7dba76332716dfd063d6ab23f22ff0",
+                "filesize": "143312",
                 "terms": {
                     "Release type": [
                         "New features",
@@ -26358,16 +26358,16 @@
                 "files": [
                     {
                         "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/media-7.x-2.x-dev.tar.gz",
-                        "date": "1497597243",
-                        "mdhash": "337a6bf4ee5134c58118a7ff79d4496b",
-                        "filesize": "143272",
+                        "date": "1498682644",
+                        "mdhash": "1a7dba76332716dfd063d6ab23f22ff0",
+                        "filesize": "143312",
                         "archive_type": "tar.gz"
                     },
                     {
                         "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/media-7.x-2.x-dev.zip",
-                        "date": "1497597243",
-                        "mdhash": "9d316234d95930a5c6d122b8ee746e26",
-                        "filesize": "192418",
+                        "date": "1498682644",
+                        "mdhash": "e4e1dab0fb7122b87669666c39fd3d73",
+                        "filesize": "192461",
                         "archive_type": "zip"
                     }
                 ],
@@ -33226,6 +33226,1151 @@
         },
         "candidate_version": "7.x-1.0-rc3",
         "status_msg": "Update available",
+        "updateable": true
+    },
+    "services": {
+        "name": "services",
+        "label": "Services (services)",
+        "path": "profiles\/govcms\/modules\/contrib\/services",
+        "install_type": "official",
+        "existing_version": "7.x-3.19",
+        "existing_major": "3",
+        "status": 1,
+        "datestamp": "1488903487",
+        "latest_version": "7.x-3.20",
+        "recommended": "7.x-3.20",
+        "security updates": [
+            {
+                "name": "services 7.x-3.20",
+                "date": "1498574943",
+                "status": "published",
+                "version": "7.x-3.20",
+                "tag": "7.x-3.20",
+                "version_major": "3",
+                "version_patch": "20",
+                "release_link": "https:\/\/www.drupal.org\/project\/services\/releases\/7.x-3.20",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.20.tar.gz",
+                "mdhash": "14b44ed8e020f9085e1c0be0dab5386c",
+                "filesize": "109037",
+                "terms": {
+                    "Release type": [
+                        "Security update",
+                        "New features"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.20.tar.gz",
+                        "date": "1498574943",
+                        "mdhash": "14b44ed8e020f9085e1c0be0dab5386c",
+                        "filesize": "109037",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.20.zip",
+                        "date": "1498574943",
+                        "mdhash": "42bd042e0dd8be7600d567894ef2ae51",
+                        "filesize": "151826",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": [
+                    "Security",
+                    "Supported",
+                    "Recommended"
+                ]
+            }
+        ],
+        "title": "Services",
+        "short_name": "services",
+        "type": "project_module",
+        "api_version": "7.x",
+        "recommended_major": "3",
+        "supported_majors": "3",
+        "default_major": "3",
+        "project_status": "published",
+        "link": "https:\/\/www.drupal.org\/project\/services",
+        "project_type": "module",
+        "terms": {
+            "Projects": [
+                "Modules"
+            ],
+            "Maintenance status": [
+                "Actively maintained"
+            ],
+            "Development status": [
+                "Under active development"
+            ],
+            "Module categories": [
+                "Third-party Integration"
+            ]
+        },
+        "releases": {
+            "7.x-3.20": {
+                "name": "services 7.x-3.20",
+                "date": "1498574943",
+                "status": "published",
+                "version": "7.x-3.20",
+                "tag": "7.x-3.20",
+                "version_major": "3",
+                "version_patch": "20",
+                "release_link": "https:\/\/www.drupal.org\/project\/services\/releases\/7.x-3.20",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.20.tar.gz",
+                "mdhash": "14b44ed8e020f9085e1c0be0dab5386c",
+                "filesize": "109037",
+                "terms": {
+                    "Release type": [
+                        "Security update",
+                        "New features"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.20.tar.gz",
+                        "date": "1498574943",
+                        "mdhash": "14b44ed8e020f9085e1c0be0dab5386c",
+                        "filesize": "109037",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.20.zip",
+                        "date": "1498574943",
+                        "mdhash": "42bd042e0dd8be7600d567894ef2ae51",
+                        "filesize": "151826",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": [
+                    "Security",
+                    "Supported",
+                    "Recommended"
+                ]
+            },
+            "7.x-3.19": {
+                "name": "services 7.x-3.19",
+                "date": "1488903483",
+                "status": "published",
+                "version": "7.x-3.19",
+                "tag": "7.x-3.19",
+                "version_major": "3",
+                "version_patch": "19",
+                "release_link": "https:\/\/www.drupal.org\/project\/services\/releases\/7.x-3.19",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.19.tar.gz",
+                "mdhash": "d240318fdd8c26f7b6ef03268d16b33b",
+                "filesize": "108902",
+                "terms": {
+                    "Release type": [
+                        "Security update",
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.19.tar.gz",
+                        "date": "1488903483",
+                        "mdhash": "d240318fdd8c26f7b6ef03268d16b33b",
+                        "filesize": "108902",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.19.zip",
+                        "date": "1488903483",
+                        "mdhash": "856166bc6783be186394174cf53d181e",
+                        "filesize": "151649",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": [
+                    "Security"
+                ]
+            },
+            "7.x-3.18": {
+                "name": "services 7.x-3.18",
+                "date": "1482949683",
+                "status": "published",
+                "version": "7.x-3.18",
+                "tag": "7.x-3.18",
+                "version_major": "3",
+                "version_patch": "18",
+                "release_link": "https:\/\/www.drupal.org\/project\/services\/releases\/7.x-3.18",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.18.tar.gz",
+                "mdhash": "10a39b32ec5529f4e178560ba23a3dc1",
+                "filesize": "108897",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.18.tar.gz",
+                        "date": "1482949683",
+                        "mdhash": "10a39b32ec5529f4e178560ba23a3dc1",
+                        "filesize": "108897",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.18.zip",
+                        "date": "1482949683",
+                        "mdhash": "c77a296110d0212cbdc45abc031c520f",
+                        "filesize": "151656",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-3.17": {
+                "name": "services 7.x-3.17",
+                "date": "1471899239",
+                "status": "published",
+                "version": "7.x-3.17",
+                "tag": "7.x-3.17",
+                "version_major": "3",
+                "version_patch": "17",
+                "release_link": "https:\/\/www.drupal.org\/project\/services\/releases\/7.x-3.17",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.17.tar.gz",
+                "mdhash": "412bfc80bc309ca35b36731b39054870",
+                "filesize": "109795",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes",
+                        "New features"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.17.tar.gz",
+                        "date": "1471899239",
+                        "mdhash": "412bfc80bc309ca35b36731b39054870",
+                        "filesize": "109795",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.17.zip",
+                        "date": "1471899239",
+                        "mdhash": "e6bd95b6fd45fab64abb5d5a99d9512f",
+                        "filesize": "151286",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-3.16": {
+                "name": "services 7.x-3.16",
+                "date": "1470071339",
+                "status": "published",
+                "version": "7.x-3.16",
+                "tag": "7.x-3.16",
+                "version_major": "3",
+                "version_patch": "16",
+                "release_link": "https:\/\/www.drupal.org\/project\/services\/releases\/7.x-3.16",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.16.tar.gz",
+                "mdhash": "b84253af59d900478ba7ba9b35a70acc",
+                "filesize": "109627",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes",
+                        "New features"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.16.tar.gz",
+                        "date": "1470071339",
+                        "mdhash": "b84253af59d900478ba7ba9b35a70acc",
+                        "filesize": "109627",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.16.zip",
+                        "date": "1470071339",
+                        "mdhash": "96a5306bf71e8be4567c26d6292c0094",
+                        "filesize": "151146",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-3.15": {
+                "name": "services 7.x-3.15",
+                "date": "1467420539",
+                "status": "published",
+                "version": "7.x-3.15",
+                "tag": "7.x-3.15",
+                "version_major": "3",
+                "version_patch": "15",
+                "release_link": "https:\/\/www.drupal.org\/project\/services\/releases\/7.x-3.15",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.15.tar.gz",
+                "mdhash": "7673b2a075643e26df8e454b2bc4ab5a",
+                "filesize": "109651",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes",
+                        "New features"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.15.tar.gz",
+                        "date": "1467420539",
+                        "mdhash": "7673b2a075643e26df8e454b2bc4ab5a",
+                        "filesize": "109651",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.15.zip",
+                        "date": "1467420539",
+                        "mdhash": "c29cff099a61d2eb375982b7fe5d45d2",
+                        "filesize": "151158",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-3.14": {
+                "name": "services 7.x-3.14",
+                "date": "1457714641",
+                "status": "published",
+                "version": "7.x-3.14",
+                "tag": "7.x-3.14",
+                "version_major": "3",
+                "version_patch": "14",
+                "release_link": "https:\/\/www.drupal.org\/project\/services\/releases\/7.x-3.14",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.14.tar.gz",
+                "mdhash": "be6a5963cdc6062641fffde842e13da4",
+                "filesize": "108438",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes",
+                        "New features"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.14.tar.gz",
+                        "date": "1457714641",
+                        "mdhash": "be6a5963cdc6062641fffde842e13da4",
+                        "filesize": "108438",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.14.zip",
+                        "date": "1457714641",
+                        "mdhash": "662e6d6216d7be4e393ab8cac842e9f7",
+                        "filesize": "150137",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-3.13": {
+                "name": "services 7.x-3.13",
+                "date": "1453497539",
+                "status": "published",
+                "version": "7.x-3.13",
+                "tag": "7.x-3.13",
+                "version_major": "3",
+                "version_patch": "13",
+                "release_link": "https:\/\/www.drupal.org\/project\/services\/releases\/7.x-3.13",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.13.tar.gz",
+                "mdhash": "6b9c768a7a46ccbdefbf9d5b579858cf",
+                "filesize": "107885",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes",
+                        "New features"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.13.tar.gz",
+                        "date": "1453497539",
+                        "mdhash": "6b9c768a7a46ccbdefbf9d5b579858cf",
+                        "filesize": "107885",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.13.zip",
+                        "date": "1453497539",
+                        "mdhash": "c4018d2ca33a5d978a2b13665ff348f0",
+                        "filesize": "149776",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-3.12": {
+                "name": "services 7.x-3.12",
+                "date": "1429118281",
+                "status": "published",
+                "version": "7.x-3.12",
+                "tag": "7.x-3.12",
+                "version_major": "3",
+                "version_patch": "12",
+                "release_link": "https:\/\/www.drupal.org\/project\/services\/releases\/7.x-3.12",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.12.tar.gz",
+                "mdhash": "d005d8cf43773e4fe6096b003b731d94",
+                "filesize": "107270",
+                "terms": {
+                    "Release type": [
+                        "Security update",
+                        "Bug fixes",
+                        "New features"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.12.tar.gz",
+                        "date": "1429118281",
+                        "mdhash": "d005d8cf43773e4fe6096b003b731d94",
+                        "filesize": "107270",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.12.zip",
+                        "date": "1429118281",
+                        "mdhash": "9aa54f3cdd97def4a012263cdb0b94f3",
+                        "filesize": "149005",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": [
+                    "Security"
+                ]
+            },
+            "7.x-3.11": {
+                "name": "services 7.x-3.11",
+                "date": "1416265377",
+                "status": "published",
+                "version": "7.x-3.11",
+                "tag": "7.x-3.11",
+                "version_major": "3",
+                "version_patch": "11",
+                "release_link": "https:\/\/www.drupal.org\/project\/services\/releases\/7.x-3.11",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.11.tar.gz",
+                "mdhash": "328f448fcc535bc6b9c05e1511daf3ea",
+                "filesize": "105346",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.11.tar.gz",
+                        "date": "1416265377",
+                        "mdhash": "328f448fcc535bc6b9c05e1511daf3ea",
+                        "filesize": "105346",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.11.zip",
+                        "date": "1416265377",
+                        "mdhash": "c34f1ba685a264b12c0443753bb15a14",
+                        "filesize": "147259",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-3.10": {
+                "name": "services 7.x-3.10",
+                "date": "1411583327",
+                "status": "published",
+                "version": "7.x-3.10",
+                "tag": "7.x-3.10",
+                "version_major": "3",
+                "version_patch": "10",
+                "release_link": "https:\/\/www.drupal.org\/project\/services\/releases\/7.x-3.10",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.10.tar.gz",
+                "mdhash": "dfc142f4d1507ef7e9233523da2ab57e",
+                "filesize": "105187",
+                "terms": {
+                    "Release type": [
+                        "Security update",
+                        "Bug fixes",
+                        "New features"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.10.tar.gz",
+                        "date": "1411583327",
+                        "mdhash": "dfc142f4d1507ef7e9233523da2ab57e",
+                        "filesize": "105187",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.10.zip",
+                        "date": "1411583327",
+                        "mdhash": "1c4638490353e7417259ed8f2269d228",
+                        "filesize": "147096",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": [
+                    "Security"
+                ]
+            },
+            "7.x-3.7": {
+                "name": "services 7.x-3.7",
+                "date": "1391207905",
+                "status": "published",
+                "version": "7.x-3.7",
+                "tag": "7.x-3.7",
+                "version_major": "3",
+                "version_patch": "7",
+                "release_link": "https:\/\/www.drupal.org\/project\/services\/releases\/7.x-3.7",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.7.tar.gz",
+                "mdhash": "f19a7cafb9726e75929d1de550fc4f9b",
+                "filesize": "99191",
+                "terms": {
+                    "Release type": [
+                        "Security update",
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.7.tar.gz",
+                        "date": "1391207905",
+                        "mdhash": "f19a7cafb9726e75929d1de550fc4f9b",
+                        "filesize": "99191",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.7.zip",
+                        "date": "1391207905",
+                        "mdhash": "16108175b1e926066f33cb83b01bc1c0",
+                        "filesize": "138282",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": [
+                    "Security"
+                ]
+            },
+            "7.x-3.6": {
+                "name": "services 7.x-3.6",
+                "date": "1390520605",
+                "status": "published",
+                "version": "7.x-3.6",
+                "tag": "7.x-3.6",
+                "version_major": "3",
+                "version_patch": "6",
+                "release_link": "https:\/\/www.drupal.org\/project\/services\/releases\/7.x-3.6",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.6.tar.gz",
+                "mdhash": "1b43a1e250b343a04ba96c8239bce1d1",
+                "filesize": "98927",
+                "terms": {
+                    "Release type": [
+                        "Security update",
+                        "Bug fixes",
+                        "New features"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.6.tar.gz",
+                        "date": "1390520605",
+                        "mdhash": "1b43a1e250b343a04ba96c8239bce1d1",
+                        "filesize": "98927",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.6.zip",
+                        "date": "1390520605",
+                        "mdhash": "2338badb2dde79fc25a3ea4ef8dc74a7",
+                        "filesize": "137981",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": [
+                    "Security"
+                ]
+            },
+            "7.x-3.5": {
+                "name": "services 7.x-3.5",
+                "date": "1375238611",
+                "status": "published",
+                "version": "7.x-3.5",
+                "tag": "7.x-3.5",
+                "version_major": "3",
+                "version_patch": "5",
+                "release_link": "https:\/\/www.drupal.org\/project\/services\/releases\/7.x-3.5",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.5.tar.gz",
+                "mdhash": "edc88b7601bffb02084dc27bd1a0f561",
+                "filesize": "93554",
+                "terms": {
+                    "Release type": [
+                        "New features",
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.5.tar.gz",
+                        "date": "1375238611",
+                        "mdhash": "edc88b7601bffb02084dc27bd1a0f561",
+                        "filesize": "93554",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.5.zip",
+                        "date": "1375238611",
+                        "mdhash": "c68b42d728cea312072cded9e792f872",
+                        "filesize": "134549",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-3.4": {
+                "name": "services 7.x-3.4",
+                "date": "1370415955",
+                "status": "published",
+                "version": "7.x-3.4",
+                "tag": "7.x-3.4",
+                "version_major": "3",
+                "version_patch": "4",
+                "release_link": "https:\/\/www.drupal.org\/project\/services\/releases\/7.x-3.4",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.4.tar.gz",
+                "mdhash": "10a37f1a9f08b449882d362c8792f0f2",
+                "filesize": "93211",
+                "terms": {
+                    "Release type": [
+                        "Security update",
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.4.tar.gz",
+                        "date": "1370415955",
+                        "mdhash": "10a37f1a9f08b449882d362c8792f0f2",
+                        "filesize": "93211",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.4.zip",
+                        "date": "1370415955",
+                        "mdhash": "d9b51d6f3c48fb77e13f85a847310f2e",
+                        "filesize": "134222",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": [
+                    "Security"
+                ]
+            },
+            "7.x-3.3": {
+                "name": "services 7.x-3.3",
+                "date": "1353015205",
+                "status": "published",
+                "version": "7.x-3.3",
+                "tag": "7.x-3.3",
+                "version_major": "3",
+                "version_patch": "3",
+                "release_link": "https:\/\/www.drupal.org\/project\/services\/releases\/7.x-3.3",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.3.tar.gz",
+                "mdhash": "3cde72e2711205442c637c058421c51a",
+                "filesize": "88287",
+                "terms": {
+                    "Release type": [
+                        "Security update",
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.3.tar.gz",
+                        "date": "1353015205",
+                        "mdhash": "3cde72e2711205442c637c058421c51a",
+                        "filesize": "88287",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.3.zip",
+                        "date": "1353015205",
+                        "mdhash": "800a3543ede00f2fa06e808c62bb0321",
+                        "filesize": "127060",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": [
+                    "Security"
+                ]
+            },
+            "7.x-3.2": {
+                "name": "services 7.x-3.2",
+                "date": "1349822238",
+                "status": "published",
+                "version": "7.x-3.2",
+                "tag": "7.x-3.2",
+                "version_major": "3",
+                "version_patch": "2",
+                "release_link": "https:\/\/www.drupal.org\/project\/services\/releases\/7.x-3.2",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.2.tar.gz",
+                "mdhash": "f5af300edfb5e9e17312ad6ba78dc12d",
+                "filesize": "87747",
+                "terms": {
+                    "Release type": [
+                        "New features",
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.2.tar.gz",
+                        "date": "1349822238",
+                        "mdhash": "f5af300edfb5e9e17312ad6ba78dc12d",
+                        "filesize": "87747",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.2.zip",
+                        "date": "1349822238",
+                        "mdhash": "10a70d09a2912b2df47c8e2a3f97ffce",
+                        "filesize": "126434",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-3.1": {
+                "name": "services 7.x-3.1",
+                "date": "1321482643",
+                "status": "published",
+                "version": "7.x-3.1",
+                "tag": "7.x-3.1",
+                "version_major": "3",
+                "version_patch": "1",
+                "release_link": "https:\/\/www.drupal.org\/project\/services\/releases\/7.x-3.1",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.1.tar.gz",
+                "mdhash": "dac49d2f3d16e012a4756aaeddaddfc2",
+                "filesize": "76039",
+                "terms": {
+                    "Release type": [
+                        "New features",
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.1.tar.gz",
+                        "date": "1321482643",
+                        "mdhash": "dac49d2f3d16e012a4756aaeddaddfc2",
+                        "filesize": "76039",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.1.zip",
+                        "date": "1321482643",
+                        "mdhash": "c5f6287dd5d8e0d5236cb593cbc80d68",
+                        "filesize": "108974",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-3.0": {
+                "name": "services 7.x-3.0",
+                "date": "1317342461",
+                "status": "published",
+                "version": "7.x-3.0",
+                "tag": "7.x-3.0",
+                "version_major": "3",
+                "version_patch": "0",
+                "release_link": "https:\/\/www.drupal.org\/project\/services\/releases\/7.x-3.0",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.0.tar.gz",
+                "mdhash": "29110697d535610519346c802c7ce7c8",
+                "filesize": "83473",
+                "terms": {
+                    "Release type": [
+                        "New features",
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.0.tar.gz",
+                        "date": "1317342461",
+                        "mdhash": "29110697d535610519346c802c7ce7c8",
+                        "filesize": "83473",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.0.zip",
+                        "date": "1317342461",
+                        "mdhash": "e8adcf4ae3e725f0b6fac25ebb867766",
+                        "filesize": "116268",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-3.0-rc6": {
+                "name": "services 7.x-3.0-rc6",
+                "date": "1316460709",
+                "status": "published",
+                "version": "7.x-3.0-rc6",
+                "tag": "7.x-3.0-rc6",
+                "version_major": "3",
+                "version_patch": "0",
+                "version_extra": "rc6",
+                "release_link": "https:\/\/www.drupal.org\/project\/services\/releases\/7.x-3.0-rc6",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.0-rc6.tar.gz",
+                "mdhash": "9fb622e75220b3d9b47a8fb771d4ae9d",
+                "filesize": "82807",
+                "terms": {
+                    "Release type": [
+                        "New features",
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.0-rc6.tar.gz",
+                        "date": "1316460709",
+                        "mdhash": "9fb622e75220b3d9b47a8fb771d4ae9d",
+                        "filesize": "82807",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.0-rc6.zip",
+                        "date": "1316460709",
+                        "mdhash": "78809da6a118d6ccfd17bdee94e8ed62",
+                        "filesize": "115338",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-3.0-rc5": {
+                "name": "services 7.x-3.0-rc5",
+                "date": "1312337821",
+                "status": "published",
+                "version": "7.x-3.0-rc5",
+                "tag": "7.x-3.0-rc5",
+                "version_major": "3",
+                "version_patch": "0",
+                "version_extra": "rc5",
+                "release_link": "https:\/\/www.drupal.org\/project\/services\/releases\/7.x-3.0-rc5",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.0-rc5.tar.gz",
+                "mdhash": "c03f5ceac7ff62b7b660df05a26e8fba",
+                "filesize": "81116",
+                "terms": {
+                    "Release type": [
+                        "New features",
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.0-rc5.tar.gz",
+                        "date": "1312337821",
+                        "mdhash": "c03f5ceac7ff62b7b660df05a26e8fba",
+                        "filesize": "81116",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.0-rc5.zip",
+                        "date": "1312337821",
+                        "mdhash": "ea87b6fda34170e6feba48d9b290403d",
+                        "filesize": "113682",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-3.0-rc4": {
+                "name": "services 7.x-3.0-rc4",
+                "date": "1311888120",
+                "status": "published",
+                "version": "7.x-3.0-rc4",
+                "tag": "7.x-3.0-rc4",
+                "version_major": "3",
+                "version_patch": "0",
+                "version_extra": "rc4",
+                "release_link": "https:\/\/www.drupal.org\/project\/services\/releases\/7.x-3.0-rc4",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.0-rc4.tar.gz",
+                "mdhash": "b8629057cb5f3829ff0672c3f78cc7cd",
+                "filesize": "80441",
+                "terms": {
+                    "Release type": [
+                        "New features",
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.0-rc4.tar.gz",
+                        "date": "1311888120",
+                        "mdhash": "b8629057cb5f3829ff0672c3f78cc7cd",
+                        "filesize": "80441",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.0-rc4.zip",
+                        "date": "1311888120",
+                        "mdhash": "fd7c84599c0cca09fcf907acd6843845",
+                        "filesize": "113032",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-3.0-rc3": {
+                "name": "services 7.x-3.0-rc3",
+                "date": "1304635316",
+                "status": "published",
+                "version": "7.x-3.0-rc3",
+                "tag": "7.x-3.0-rc3",
+                "version_major": "3",
+                "version_patch": "0",
+                "version_extra": "rc3",
+                "release_link": "https:\/\/www.drupal.org\/project\/services\/releases\/7.x-3.0-rc3",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.0-rc3.tar.gz",
+                "mdhash": "5ca7fa0ae740171746a157dc8b79b91d",
+                "filesize": "74775",
+                "terms": {
+                    "Release type": [
+                        "New features",
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.0-rc3.tar.gz",
+                        "date": "1304635316",
+                        "mdhash": "5ca7fa0ae740171746a157dc8b79b91d",
+                        "filesize": "74775",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.0-rc3.zip",
+                        "date": "1304635316",
+                        "mdhash": "26f0c176d6bb6e7ae6f4ae61c0a68064",
+                        "filesize": "104859",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-3.0-rc2": {
+                "name": "services 7.x-3.0-rc2",
+                "date": "1303505817",
+                "status": "published",
+                "version": "7.x-3.0-rc2",
+                "tag": "7.x-3.0-rc2",
+                "version_major": "3",
+                "version_patch": "0",
+                "version_extra": "rc2",
+                "release_link": "https:\/\/www.drupal.org\/project\/services\/releases\/7.x-3.0-rc2",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.0-rc2.tar.gz",
+                "mdhash": "0be2d86fcce06250f109cdf194744b82",
+                "filesize": "74345",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.0-rc2.tar.gz",
+                        "date": "1303505817",
+                        "mdhash": "0be2d86fcce06250f109cdf194744b82",
+                        "filesize": "74345",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.0-rc2.zip",
+                        "date": "1303505817",
+                        "mdhash": "0c134f652d25304301eda8410fa4363f",
+                        "filesize": "104438",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-3.0-rc1": {
+                "name": "services 7.x-3.0-rc1",
+                "date": "1294432577",
+                "status": "published",
+                "version": "7.x-3.0-rc1",
+                "tag": "7.x-3.0-rc1",
+                "version_major": "3",
+                "version_patch": "0",
+                "version_extra": "rc1",
+                "release_link": "https:\/\/www.drupal.org\/project\/services\/releases\/7.x-3.0-rc1",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.0-rc1.tar.gz",
+                "mdhash": "57d95f2b4a2603ecf02c585c556e70b1",
+                "filesize": "62059",
+                "terms": {
+                    "Release type": [
+                        "New features",
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.0-rc1.tar.gz",
+                        "date": "1294432577",
+                        "mdhash": "57d95f2b4a2603ecf02c585c556e70b1",
+                        "filesize": "62059",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.0-rc1.zip",
+                        "date": "1294432577",
+                        "mdhash": "6fb563c54fc7923a2a26a09fa8347cdf",
+                        "filesize": "86167",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-3.0-beta2": {
+                "name": "services 7.x-3.0-beta2",
+                "date": "1293213901",
+                "status": "published",
+                "version": "7.x-3.0-beta2",
+                "tag": "7.x-3.0-beta2",
+                "version_major": "3",
+                "version_patch": "0",
+                "version_extra": "beta2",
+                "release_link": "https:\/\/www.drupal.org\/project\/services\/releases\/7.x-3.0-beta2",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.0-beta2.tar.gz",
+                "mdhash": "43095ae3fe87be4ceaf2d2193f9652cb",
+                "filesize": "62075",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.0-beta2.tar.gz",
+                        "date": "1293213901",
+                        "mdhash": "43095ae3fe87be4ceaf2d2193f9652cb",
+                        "filesize": "62075",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.0-beta2.zip",
+                        "date": "1293234441",
+                        "mdhash": "216d9aae31deffefc4e91e4089bb5e24",
+                        "filesize": "85154",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-3.0-beta1": {
+                "name": "services 7.x-3.0-beta1",
+                "date": "1292004315",
+                "status": "published",
+                "version": "7.x-3.0-beta1",
+                "tag": "7.x-3.0-beta1",
+                "version_major": "3",
+                "version_patch": "0",
+                "version_extra": "beta1",
+                "release_link": "https:\/\/www.drupal.org\/project\/services\/releases\/7.x-3.0-beta1",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.0-beta1.tar.gz",
+                "mdhash": "1a6898f320e68d82d03f3685ceb9a116",
+                "filesize": "59154",
+                "terms": {
+                    "Release type": [
+                        "New features"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.0-beta1.tar.gz",
+                        "date": "1292004315",
+                        "mdhash": "1a6898f320e68d82d03f3685ceb9a116",
+                        "filesize": "59154",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.0-beta1.zip",
+                        "date": "1293234442",
+                        "mdhash": "9977642ae28548c9bd0ea42c10d67a65",
+                        "filesize": "81288",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-3.x-dev": {
+                "name": "services 7.x-3.x-dev",
+                "date": "1498574943",
+                "status": "published",
+                "version": "7.x-3.x-dev",
+                "tag": "7.x-3.x",
+                "version_major": "3",
+                "version_extra": "dev",
+                "release_link": "https:\/\/www.drupal.org\/project\/services\/releases\/7.x-3.x-dev",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.x-dev.tar.gz",
+                "mdhash": "b85d2224e851d385a3c597dec2aa7591",
+                "filesize": "109051",
+                "terms": [],
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.x-dev.tar.gz",
+                        "date": "1498574943",
+                        "mdhash": "b85d2224e851d385a3c597dec2aa7591",
+                        "filesize": "109051",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-3.x-dev.zip",
+                        "date": "1498574943",
+                        "mdhash": "3078ae44ab5cba3e7eeb186ff07602dc",
+                        "filesize": "151851",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": [
+                    "Development"
+                ]
+            },
+            "7.x-1.x-dev": {
+                "name": "services 7.x-1.x-dev",
+                "date": "1380627299",
+                "status": "published",
+                "version": "7.x-1.x-dev",
+                "tag": "7.x-1.x",
+                "version_major": "1",
+                "version_extra": "dev",
+                "release_link": "https:\/\/www.drupal.org\/project\/services\/releases\/7.x-1.x-dev",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-1.x-dev.tar.gz",
+                "mdhash": "8406e0a32ff3870601f068e864482626",
+                "filesize": "36315",
+                "terms": [],
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-1.x-dev.tar.gz",
+                        "date": "1380627299",
+                        "mdhash": "8406e0a32ff3870601f068e864482626",
+                        "filesize": "36315",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/services-7.x-1.x-dev.zip",
+                        "date": "1380627299",
+                        "mdhash": "22f114d09449b3e77d6e20744fb9affa",
+                        "filesize": "57504",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": [
+                    "Development"
+                ]
+            }
+        },
+        "candidate_version": "7.x-3.20",
+        "status_msg": "SECURITY UPDATE available",
         "updateable": true
     },
     "robotstxt": {
@@ -42002,7 +43147,7 @@
             },
             "7.x-3.x-dev": {
                 "name": "views 7.x-3.x-dev",
-                "date": "1491154383",
+                "date": "1498680242",
                 "status": "published",
                 "version": "7.x-3.x-dev",
                 "tag": "7.x-3.x",
@@ -42010,22 +43155,22 @@
                 "version_extra": "dev",
                 "release_link": "https:\/\/www.drupal.org\/project\/views\/releases\/7.x-3.x-dev",
                 "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/views-7.x-3.x-dev.tar.gz",
-                "mdhash": "b8b158ae6a7c9f4e84540fbfcfa83ee3",
-                "filesize": "1643061",
+                "mdhash": "e4b7135f30812d321980ef535203e2cb",
+                "filesize": "1645253",
                 "terms": [],
                 "files": [
                     {
                         "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/views-7.x-3.x-dev.tar.gz",
-                        "date": "1491154383",
-                        "mdhash": "b8b158ae6a7c9f4e84540fbfcfa83ee3",
-                        "filesize": "1643061",
+                        "date": "1498680242",
+                        "mdhash": "e4b7135f30812d321980ef535203e2cb",
+                        "filesize": "1645253",
                         "archive_type": "tar.gz"
                     },
                     {
                         "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/views-7.x-3.x-dev.zip",
-                        "date": "1491154383",
-                        "mdhash": "db78a5499cda151d5a352a908adf7e6b",
-                        "filesize": "1913538",
+                        "date": "1498680242",
+                        "mdhash": "a90819d4b6bc3ac98fbc270b48926cdc",
+                        "filesize": "1915027",
                         "archive_type": "zip"
                     }
                 ],
