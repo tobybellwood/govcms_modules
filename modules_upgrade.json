@@ -18257,7 +18257,7 @@
             },
             "7.x-2.x-dev": {
                 "name": "feeds 7.x-2.x-dev",
-                "date": "1496840942",
+                "date": "1498986541",
                 "status": "published",
                 "version": "7.x-2.x-dev",
                 "tag": "7.x-2.x",
@@ -18265,22 +18265,22 @@
                 "version_extra": "dev",
                 "release_link": "https:\/\/www.drupal.org\/project\/feeds\/releases\/7.x-2.x-dev",
                 "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/feeds-7.x-2.x-dev.tar.gz",
-                "mdhash": "ad833fa53f13b2516c3586393b26c6d4",
-                "filesize": "903592",
+                "mdhash": "02ed67e048e0691af58c302c11309c30",
+                "filesize": "905099",
                 "terms": [],
                 "files": [
                     {
                         "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/feeds-7.x-2.x-dev.tar.gz",
-                        "date": "1496840942",
-                        "mdhash": "ad833fa53f13b2516c3586393b26c6d4",
-                        "filesize": "903592",
+                        "date": "1498986541",
+                        "mdhash": "02ed67e048e0691af58c302c11309c30",
+                        "filesize": "905099",
                         "archive_type": "tar.gz"
                     },
                     {
                         "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/feeds-7.x-2.x-dev.zip",
-                        "date": "1496840942",
-                        "mdhash": "33b17c06245781d589c32875b315516d",
-                        "filesize": "1004201",
+                        "date": "1498986541",
+                        "mdhash": "d24ee66aa39f9da3d3768ea8b0cc3779",
+                        "filesize": "1006601",
                         "archive_type": "zip"
                     }
                 ],
@@ -18940,7 +18940,7 @@
             },
             "7.x-2.x-dev": {
                 "name": "file_entity 7.x-2.x-dev",
-                "date": "1498678743",
+                "date": "1499120343",
                 "status": "published",
                 "version": "7.x-2.x-dev",
                 "tag": "7.x-2.x",
@@ -18948,22 +18948,22 @@
                 "version_extra": "dev",
                 "release_link": "https:\/\/www.drupal.org\/project\/file_entity\/releases\/7.x-2.x-dev",
                 "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/file_entity-7.x-2.x-dev.tar.gz",
-                "mdhash": "3beb7b0c08a8335fc1f3171ce4bbcda6",
-                "filesize": "101283",
+                "mdhash": "fc5b756603144044eeba7fac579d9afe",
+                "filesize": "101282",
                 "terms": [],
                 "files": [
                     {
                         "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/file_entity-7.x-2.x-dev.tar.gz",
-                        "date": "1498678743",
-                        "mdhash": "3beb7b0c08a8335fc1f3171ce4bbcda6",
-                        "filesize": "101283",
+                        "date": "1499120343",
+                        "mdhash": "fc5b756603144044eeba7fac579d9afe",
+                        "filesize": "101282",
                         "archive_type": "tar.gz"
                     },
                     {
                         "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/file_entity-7.x-2.x-dev.zip",
-                        "date": "1498678743",
-                        "mdhash": "d1ae0dbff838052eb700267e1bf8619b",
-                        "filesize": "122944",
+                        "date": "1499120343",
+                        "mdhash": "660d2fe7502152b6d685accf3dd35d9b",
+                        "filesize": "122942",
                         "archive_type": "zip"
                     }
                 ],
@@ -23046,7 +23046,7 @@
             },
             "7.x-1.x-dev": {
                 "name": "link 7.x-1.x-dev",
-                "date": "1498840442",
+                "date": "1499094842",
                 "status": "published",
                 "version": "7.x-1.x-dev",
                 "tag": "7.x-1.x",
@@ -23054,22 +23054,22 @@
                 "version_extra": "dev",
                 "release_link": "https:\/\/www.drupal.org\/project\/link\/releases\/7.x-1.x-dev",
                 "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/link-7.x-1.x-dev.tar.gz",
-                "mdhash": "8136e66b511da3cbcb762c6ccfa0b030",
-                "filesize": "37508",
+                "mdhash": "a054301739f7756a00f8a8d35e7c0699",
+                "filesize": "37589",
                 "terms": [],
                 "files": [
                     {
                         "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/link-7.x-1.x-dev.tar.gz",
-                        "date": "1498840442",
-                        "mdhash": "8136e66b511da3cbcb762c6ccfa0b030",
-                        "filesize": "37508",
+                        "date": "1499094842",
+                        "mdhash": "a054301739f7756a00f8a8d35e7c0699",
+                        "filesize": "37589",
                         "archive_type": "tar.gz"
                     },
                     {
                         "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/link-7.x-1.x-dev.zip",
-                        "date": "1498840442",
-                        "mdhash": "8fe1adff1d3108f8beabf6d531ebb06f",
-                        "filesize": "47600",
+                        "date": "1499094842",
+                        "mdhash": "32dbf8384daa1f4cde50761876729a9b",
+                        "filesize": "47680",
                         "archive_type": "zip"
                     }
                 ],
@@ -26301,7 +26301,7 @@
             },
             "7.x-3.x-dev": {
                 "name": "media 7.x-3.x-dev",
-                "date": "1498751342",
+                "date": "1499130243",
                 "status": "published",
                 "version": "7.x-3.x-dev",
                 "tag": "7.x-3.x",
@@ -26309,8 +26309,8 @@
                 "version_extra": "dev",
                 "release_link": "https:\/\/www.drupal.org\/project\/media\/releases\/7.x-3.x-dev",
                 "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/media-7.x-3.x-dev.tar.gz",
-                "mdhash": "1f3cbf8627420eef699db4ed018f9cdc",
-                "filesize": "143607",
+                "mdhash": "a1fc133ab83580fb4edcfbcfa9bb357a",
+                "filesize": "143735",
                 "terms": {
                     "Release type": [
                         "Bug fixes",
@@ -26320,16 +26320,16 @@
                 "files": [
                     {
                         "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/media-7.x-3.x-dev.tar.gz",
-                        "date": "1498751342",
-                        "mdhash": "1f3cbf8627420eef699db4ed018f9cdc",
-                        "filesize": "143607",
+                        "date": "1499130243",
+                        "mdhash": "a1fc133ab83580fb4edcfbcfa9bb357a",
+                        "filesize": "143735",
                         "archive_type": "tar.gz"
                     },
                     {
                         "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/media-7.x-3.x-dev.zip",
-                        "date": "1498751342",
-                        "mdhash": "467f3879c7d9da74b8a91ac67ea598a6",
-                        "filesize": "192787",
+                        "date": "1499130243",
+                        "mdhash": "51ae78561c28ef80b1d7e918734ea95b",
+                        "filesize": "192936",
                         "archive_type": "zip"
                     }
                 ],
@@ -26339,7 +26339,7 @@
             },
             "7.x-2.x-dev": {
                 "name": "media 7.x-2.x-dev",
-                "date": "1498751342",
+                "date": "1499130243",
                 "status": "published",
                 "version": "7.x-2.x-dev",
                 "tag": "7.x-2.x",
@@ -26347,8 +26347,8 @@
                 "version_extra": "dev",
                 "release_link": "https:\/\/www.drupal.org\/project\/media\/releases\/7.x-2.x-dev",
                 "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/media-7.x-2.x-dev.tar.gz",
-                "mdhash": "ae7672cbb4ccd9681de7e5f6d8312600",
-                "filesize": "143354",
+                "mdhash": "81ff6caa68898b93b424ee103564324d",
+                "filesize": "143478",
                 "terms": {
                     "Release type": [
                         "New features",
@@ -26358,16 +26358,16 @@
                 "files": [
                     {
                         "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/media-7.x-2.x-dev.tar.gz",
-                        "date": "1498751342",
-                        "mdhash": "ae7672cbb4ccd9681de7e5f6d8312600",
-                        "filesize": "143354",
+                        "date": "1499130243",
+                        "mdhash": "81ff6caa68898b93b424ee103564324d",
+                        "filesize": "143478",
                         "archive_type": "tar.gz"
                     },
                     {
                         "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/media-7.x-2.x-dev.zip",
-                        "date": "1498751342",
-                        "mdhash": "23fa8ee3c3645d2551bf3a1d41f381c5",
-                        "filesize": "192496",
+                        "date": "1499130243",
+                        "mdhash": "27d62802215a59652b972949d5a6d6cc",
+                        "filesize": "192646",
                         "archive_type": "zip"
                     }
                 ],
@@ -27201,6 +27201,1732 @@
             }
         },
         "candidate_version": "7.x-2.7",
+        "status_msg": "Update available",
+        "updateable": true
+    },
+    "metatag": {
+        "name": "metatag",
+        "label": "Metatag (metatag)",
+        "path": "profiles\/govcms\/modules\/contrib\/metatag",
+        "install_type": "official",
+        "existing_version": "7.x-1.21",
+        "existing_major": "1",
+        "status": 4,
+        "datestamp": "1487171290",
+        "latest_version": "7.x-1.22",
+        "recommended": "7.x-1.22",
+        "title": "Metatag",
+        "short_name": "metatag",
+        "type": "project_module",
+        "api_version": "7.x",
+        "recommended_major": "1",
+        "supported_majors": "1",
+        "default_major": "1",
+        "project_status": "published",
+        "link": "https:\/\/www.drupal.org\/project\/metatag",
+        "project_type": "module",
+        "terms": {
+            "Projects": [
+                "Modules"
+            ],
+            "Maintenance status": [
+                "Actively maintained"
+            ],
+            "Development status": [
+                "Under active development"
+            ],
+            "Module categories": [
+                "SEO"
+            ]
+        },
+        "releases": {
+            "7.x-1.22": {
+                "name": "metatag 7.x-1.22",
+                "date": "1499110742",
+                "status": "published",
+                "version": "7.x-1.22",
+                "tag": "7.x-1.22",
+                "version_major": "1",
+                "version_patch": "22",
+                "release_link": "https:\/\/www.drupal.org\/project\/metatag\/releases\/7.x-1.22",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.22.tar.gz",
+                "mdhash": "777975af18cba81685e9589ede2d6264",
+                "filesize": "226267",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.22.tar.gz",
+                        "date": "1499110742",
+                        "mdhash": "777975af18cba81685e9589ede2d6264",
+                        "filesize": "226267",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.22.zip",
+                        "date": "1499110742",
+                        "mdhash": "fbcfed3c27430d2ce5bdf6be95e4c308",
+                        "filesize": "327335",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": [
+                    "Supported",
+                    "Recommended"
+                ]
+            },
+            "7.x-1.21": {
+                "name": "metatag 7.x-1.21",
+                "date": "1487171282",
+                "status": "published",
+                "version": "7.x-1.21",
+                "tag": "7.x-1.21",
+                "version_major": "1",
+                "version_patch": "21",
+                "release_link": "https:\/\/www.drupal.org\/project\/metatag\/releases\/7.x-1.21",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.21.tar.gz",
+                "mdhash": "51c851be87f2c4d1bcd859fde56b0024",
+                "filesize": "225701",
+                "terms": {
+                    "Release type": [
+                        "Security update",
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.21.tar.gz",
+                        "date": "1487171282",
+                        "mdhash": "51c851be87f2c4d1bcd859fde56b0024",
+                        "filesize": "225701",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.21.zip",
+                        "date": "1487171282",
+                        "mdhash": "dd1ba5c744d27015782744951061883b",
+                        "filesize": "326369",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": [
+                    "Security"
+                ]
+            },
+            "7.x-1.20": {
+                "name": "metatag 7.x-1.20",
+                "date": "1484734983",
+                "status": "published",
+                "version": "7.x-1.20",
+                "tag": "7.x-1.20",
+                "version_major": "1",
+                "version_patch": "20",
+                "release_link": "https:\/\/www.drupal.org\/project\/metatag\/releases\/7.x-1.20",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.20.tar.gz",
+                "mdhash": "b5cf21d36472efd7ed7cbb7f4643818a",
+                "filesize": "222589",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.20.tar.gz",
+                        "date": "1484734983",
+                        "mdhash": "b5cf21d36472efd7ed7cbb7f4643818a",
+                        "filesize": "222589",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.20.zip",
+                        "date": "1484734983",
+                        "mdhash": "d73b2e40dd3f1388b4f122b68cfd366e",
+                        "filesize": "322170",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.19": {
+                "name": "metatag 7.x-1.19",
+                "date": "1483294742",
+                "status": "published",
+                "version": "7.x-1.19",
+                "tag": "7.x-1.19",
+                "version_major": "1",
+                "version_patch": "19",
+                "release_link": "https:\/\/www.drupal.org\/project\/metatag\/releases\/7.x-1.19",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.19.tar.gz",
+                "mdhash": "67ca0ffda05a52b92c5347fd18cd3582",
+                "filesize": "221962",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes",
+                        "New features"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.19.tar.gz",
+                        "date": "1483294742",
+                        "mdhash": "67ca0ffda05a52b92c5347fd18cd3582",
+                        "filesize": "221962",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.19.zip",
+                        "date": "1483294742",
+                        "mdhash": "fc8504e90cf852d67da0f753347d4b97",
+                        "filesize": "321386",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.18": {
+                "name": "metatag 7.x-1.18",
+                "date": "1480524790",
+                "status": "published",
+                "version": "7.x-1.18",
+                "tag": "7.x-1.18",
+                "version_major": "1",
+                "version_patch": "18",
+                "release_link": "https:\/\/www.drupal.org\/project\/metatag\/releases\/7.x-1.18",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.18.tar.gz",
+                "mdhash": "d9b888b4367f5e54c5852ec5cde4fcb0",
+                "filesize": "216554",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes",
+                        "New features"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.18.tar.gz",
+                        "date": "1480524790",
+                        "mdhash": "d9b888b4367f5e54c5852ec5cde4fcb0",
+                        "filesize": "216554",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.18.zip",
+                        "date": "1480524790",
+                        "mdhash": "279c8393c3d3cce04d85c26c788540cd",
+                        "filesize": "315541",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.17": {
+                "name": "metatag 7.x-1.17",
+                "date": "1467306239",
+                "status": "published",
+                "version": "7.x-1.17",
+                "tag": "7.x-1.17",
+                "version_major": "1",
+                "version_patch": "17",
+                "release_link": "https:\/\/www.drupal.org\/project\/metatag\/releases\/7.x-1.17",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.17.tar.gz",
+                "mdhash": "2a3f0624095a24700ef63d918abc548b",
+                "filesize": "201111",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.17.tar.gz",
+                        "date": "1467306239",
+                        "mdhash": "2a3f0624095a24700ef63d918abc548b",
+                        "filesize": "201111",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.17.zip",
+                        "date": "1467306239",
+                        "mdhash": "869c6d6b1180216697bb8a64d0a144d9",
+                        "filesize": "286145",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.16": {
+                "name": "metatag 7.x-1.16",
+                "date": "1464975239",
+                "status": "published",
+                "version": "7.x-1.16",
+                "tag": "7.x-1.16",
+                "version_major": "1",
+                "version_patch": "16",
+                "release_link": "https:\/\/www.drupal.org\/project\/metatag\/releases\/7.x-1.16",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.16.tar.gz",
+                "mdhash": "0d7f6cdbddacffa027465b3ca1cacb19",
+                "filesize": "181404",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.16.tar.gz",
+                        "date": "1464975239",
+                        "mdhash": "0d7f6cdbddacffa027465b3ca1cacb19",
+                        "filesize": "181404",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.16.zip",
+                        "date": "1464975239",
+                        "mdhash": "afba21cf8fe646ae21f3e1c67778b3ab",
+                        "filesize": "266158",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.15": {
+                "name": "metatag 7.x-1.15",
+                "date": "1464956639",
+                "status": "published",
+                "version": "7.x-1.15",
+                "tag": "7.x-1.15",
+                "version_major": "1",
+                "version_patch": "15",
+                "release_link": "https:\/\/www.drupal.org\/project\/metatag\/releases\/7.x-1.15",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.15.tar.gz",
+                "mdhash": "5813a57b39442832af41c047a061a6f7",
+                "filesize": "178746",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes",
+                        "New features"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.15.tar.gz",
+                        "date": "1464956639",
+                        "mdhash": "5813a57b39442832af41c047a061a6f7",
+                        "filesize": "178746",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.15.zip",
+                        "date": "1464956639",
+                        "mdhash": "a6b03dbd80aae71c6c924f6a27f5c7f1",
+                        "filesize": "252413",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.14": {
+                "name": "metatag 7.x-1.14",
+                "date": "1459607639",
+                "status": "published",
+                "version": "7.x-1.14",
+                "tag": "7.x-1.14",
+                "version_major": "1",
+                "version_patch": "14",
+                "release_link": "https:\/\/www.drupal.org\/project\/metatag\/releases\/7.x-1.14",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.14.tar.gz",
+                "mdhash": "5b17eae4832245ddbe14f299b2a02568",
+                "filesize": "173195",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes",
+                        "New features"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.14.tar.gz",
+                        "date": "1459607639",
+                        "mdhash": "5b17eae4832245ddbe14f299b2a02568",
+                        "filesize": "173195",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.14.zip",
+                        "date": "1459607639",
+                        "mdhash": "d24d44ffa10906dcab176a9f715751be",
+                        "filesize": "244799",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.13": {
+                "name": "metatag 7.x-1.13",
+                "date": "1454628839",
+                "status": "published",
+                "version": "7.x-1.13",
+                "tag": "7.x-1.13",
+                "version_major": "1",
+                "version_patch": "13",
+                "release_link": "https:\/\/www.drupal.org\/project\/metatag\/releases\/7.x-1.13",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.13.tar.gz",
+                "mdhash": "1aafdbf9682d51adb6692f9a1468102a",
+                "filesize": "173070",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.13.tar.gz",
+                        "date": "1454628839",
+                        "mdhash": "1aafdbf9682d51adb6692f9a1468102a",
+                        "filesize": "173070",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.13.zip",
+                        "date": "1454628839",
+                        "mdhash": "94adedd6ad2520d52021ec637468ec57",
+                        "filesize": "244721",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.12": {
+                "name": "metatag 7.x-1.12",
+                "date": "1454618339",
+                "status": "published",
+                "version": "7.x-1.12",
+                "tag": "7.x-1.12",
+                "version_major": "1",
+                "version_patch": "12",
+                "release_link": "https:\/\/www.drupal.org\/project\/metatag\/releases\/7.x-1.12",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.12.tar.gz",
+                "mdhash": "3a00b3228433c0b2d0c429edf459bf86",
+                "filesize": "172958",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.12.tar.gz",
+                        "date": "1454618339",
+                        "mdhash": "3a00b3228433c0b2d0c429edf459bf86",
+                        "filesize": "172958",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.12.zip",
+                        "date": "1454618339",
+                        "mdhash": "a59a5c9b86a770f3d7a4cfe860adf9b1",
+                        "filesize": "244544",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.11": {
+                "name": "metatag 7.x-1.11",
+                "date": "1453835339",
+                "status": "published",
+                "version": "7.x-1.11",
+                "tag": "7.x-1.11",
+                "version_major": "1",
+                "version_patch": "11",
+                "release_link": "https:\/\/www.drupal.org\/project\/metatag\/releases\/7.x-1.11",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.11.tar.gz",
+                "mdhash": "899151856b62ca40f22d9768b804af9a",
+                "filesize": "171750",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.11.tar.gz",
+                        "date": "1453835339",
+                        "mdhash": "899151856b62ca40f22d9768b804af9a",
+                        "filesize": "171750",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.11.zip",
+                        "date": "1453835339",
+                        "mdhash": "e7436be38c8c492812886891e738214f",
+                        "filesize": "243283",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.10": {
+                "name": "metatag 7.x-1.10",
+                "date": "1453490339",
+                "status": "published",
+                "version": "7.x-1.10",
+                "tag": "7.x-1.10",
+                "version_major": "1",
+                "version_patch": "10",
+                "release_link": "https:\/\/www.drupal.org\/project\/metatag\/releases\/7.x-1.10",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.10.tar.gz",
+                "mdhash": "cffa083cb6bb069dbc86634d40c78f30",
+                "filesize": "169246",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.10.tar.gz",
+                        "date": "1453490339",
+                        "mdhash": "cffa083cb6bb069dbc86634d40c78f30",
+                        "filesize": "169246",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.10.zip",
+                        "date": "1453490339",
+                        "mdhash": "0dd96a9f3cf798e3bf88329e564b6f60",
+                        "filesize": "240069",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.9": {
+                "name": "metatag 7.x-1.9",
+                "date": "1453415639",
+                "status": "published",
+                "version": "7.x-1.9",
+                "tag": "7.x-1.9",
+                "version_major": "1",
+                "version_patch": "9",
+                "release_link": "https:\/\/www.drupal.org\/project\/metatag\/releases\/7.x-1.9",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.9.tar.gz",
+                "mdhash": "a426427946c8e0cd23d3552f533c1e90",
+                "filesize": "168953",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes",
+                        "New features"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.9.tar.gz",
+                        "date": "1453415639",
+                        "mdhash": "a426427946c8e0cd23d3552f533c1e90",
+                        "filesize": "168953",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.9.zip",
+                        "date": "1453415639",
+                        "mdhash": "5b99540da5d710ed495bb4098036b1a3",
+                        "filesize": "239684",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.8": {
+                "name": "metatag 7.x-1.8",
+                "date": "1452804839",
+                "status": "published",
+                "version": "7.x-1.8",
+                "tag": "7.x-1.8",
+                "version_major": "1",
+                "version_patch": "8",
+                "release_link": "https:\/\/www.drupal.org\/project\/metatag\/releases\/7.x-1.8",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.8.tar.gz",
+                "mdhash": "03469778c4fb5e1843c65c17fecbbc6e",
+                "filesize": "165428",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes",
+                        "New features"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.8.tar.gz",
+                        "date": "1452804839",
+                        "mdhash": "03469778c4fb5e1843c65c17fecbbc6e",
+                        "filesize": "165428",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.8.zip",
+                        "date": "1452804839",
+                        "mdhash": "3ef0b224d804089e2e7c45f2729cc715",
+                        "filesize": "234553",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.7": {
+                "name": "metatag 7.x-1.7",
+                "date": "1437763739",
+                "status": "published",
+                "version": "7.x-1.7",
+                "tag": "7.x-1.7",
+                "version_major": "1",
+                "version_patch": "7",
+                "release_link": "https:\/\/www.drupal.org\/project\/metatag\/releases\/7.x-1.7",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.7.tar.gz",
+                "mdhash": "fc16c8d3a64f00bd609d238b31d8b6b4",
+                "filesize": "126668",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes",
+                        "New features"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.7.tar.gz",
+                        "date": "1437763739",
+                        "mdhash": "fc16c8d3a64f00bd609d238b31d8b6b4",
+                        "filesize": "126668",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.7.zip",
+                        "date": "1437763739",
+                        "mdhash": "b61503940987447f1713f5bfb2627dd5",
+                        "filesize": "169599",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.6": {
+                "name": "metatag 7.x-1.6",
+                "date": "1435693980",
+                "status": "published",
+                "version": "7.x-1.6",
+                "tag": "7.x-1.6",
+                "version_major": "1",
+                "version_patch": "6",
+                "release_link": "https:\/\/www.drupal.org\/project\/metatag\/releases\/7.x-1.6",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.6.tar.gz",
+                "mdhash": "654a2c7a66591eef065c94e67aa982df",
+                "filesize": "125322",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes",
+                        "New features"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.6.tar.gz",
+                        "date": "1435693980",
+                        "mdhash": "654a2c7a66591eef065c94e67aa982df",
+                        "filesize": "125322",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.6.zip",
+                        "date": "1435693980",
+                        "mdhash": "b663420e3c1cff9447a1453c16a57e0f",
+                        "filesize": "167567",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.5": {
+                "name": "metatag 7.x-1.5",
+                "date": "1432910281",
+                "status": "published",
+                "version": "7.x-1.5",
+                "tag": "7.x-1.5",
+                "version_major": "1",
+                "version_patch": "5",
+                "release_link": "https:\/\/www.drupal.org\/project\/metatag\/releases\/7.x-1.5",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.5.tar.gz",
+                "mdhash": "8b34c2ce3bca509ca5fb2a5e2969ceb0",
+                "filesize": "117873",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes",
+                        "New features"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.5.tar.gz",
+                        "date": "1432910281",
+                        "mdhash": "8b34c2ce3bca509ca5fb2a5e2969ceb0",
+                        "filesize": "117873",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.5.zip",
+                        "date": "1432910281",
+                        "mdhash": "4da8116310483c2fdf921f6765eaafb5",
+                        "filesize": "156340",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.5-beta1": {
+                "name": "metatag 7.x-1.5-beta1",
+                "date": "1422885437",
+                "status": "published",
+                "version": "7.x-1.5-beta1",
+                "tag": "7.x-1.5-beta1",
+                "version_major": "1",
+                "version_patch": "5",
+                "version_extra": "beta1",
+                "release_link": "https:\/\/www.drupal.org\/project\/metatag\/releases\/7.x-1.5-beta1",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.5-beta1.tar.gz",
+                "mdhash": "7babac387d3d23615a6831aeb395b4fc",
+                "filesize": "101558",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes",
+                        "New features"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.5-beta1.tar.gz",
+                        "date": "1422885437",
+                        "mdhash": "7babac387d3d23615a6831aeb395b4fc",
+                        "filesize": "101558",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.5-beta1.zip",
+                        "date": "1422885437",
+                        "mdhash": "64ce3cd48c51c930364b7ee13fa1515e",
+                        "filesize": "132068",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.4": {
+                "name": "metatag 7.x-1.4",
+                "date": "1412909328",
+                "status": "published",
+                "version": "7.x-1.4",
+                "tag": "7.x-1.4",
+                "version_major": "1",
+                "version_patch": "4",
+                "release_link": "https:\/\/www.drupal.org\/project\/metatag\/releases\/7.x-1.4",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.4.tar.gz",
+                "mdhash": "d071820ada98026416e4322347ea4fe3",
+                "filesize": "97179",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.4.tar.gz",
+                        "date": "1412909328",
+                        "mdhash": "d071820ada98026416e4322347ea4fe3",
+                        "filesize": "97179",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.4.zip",
+                        "date": "1412909328",
+                        "mdhash": "0f16bcbca97c1647b3d2be10ae544320",
+                        "filesize": "125921",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.3": {
+                "name": "metatag 7.x-1.3",
+                "date": "1412738028",
+                "status": "published",
+                "version": "7.x-1.3",
+                "tag": "7.x-1.3",
+                "version_major": "1",
+                "version_patch": "3",
+                "release_link": "https:\/\/www.drupal.org\/project\/metatag\/releases\/7.x-1.3",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.3.tar.gz",
+                "mdhash": "381aaaba6a261e7e8e50d06e0e96d284",
+                "filesize": "96994",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.3.tar.gz",
+                        "date": "1412738028",
+                        "mdhash": "381aaaba6a261e7e8e50d06e0e96d284",
+                        "filesize": "96994",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.3.zip",
+                        "date": "1412738028",
+                        "mdhash": "3b11f54fbaba7478dfbc684f73284554",
+                        "filesize": "125684",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.2": {
+                "name": "metatag 7.x-1.2",
+                "date": "1412479728",
+                "status": "published",
+                "version": "7.x-1.2",
+                "tag": "7.x-1.2",
+                "version_major": "1",
+                "version_patch": "2",
+                "release_link": "https:\/\/www.drupal.org\/project\/metatag\/releases\/7.x-1.2",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.2.tar.gz",
+                "mdhash": "141d6d45743ca736bc45327403a12f88",
+                "filesize": "96745",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes",
+                        "New features"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.2.tar.gz",
+                        "date": "1412479728",
+                        "mdhash": "141d6d45743ca736bc45327403a12f88",
+                        "filesize": "96745",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.2.zip",
+                        "date": "1412479728",
+                        "mdhash": "4988bea2c0565bfd5c60baa30c7a5ddc",
+                        "filesize": "125272",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.1": {
+                "name": "metatag 7.x-1.1",
+                "date": "1411069735",
+                "status": "published",
+                "version": "7.x-1.1",
+                "tag": "7.x-1.1",
+                "version_major": "1",
+                "version_patch": "1",
+                "release_link": "https:\/\/www.drupal.org\/project\/metatag\/releases\/7.x-1.1",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.1.tar.gz",
+                "mdhash": "4a9aee0cfcd7fb23cda67594048e42e6",
+                "filesize": "92799",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.1.tar.gz",
+                        "date": "1411069735",
+                        "mdhash": "4a9aee0cfcd7fb23cda67594048e42e6",
+                        "filesize": "92799",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.1.zip",
+                        "date": "1411069735",
+                        "mdhash": "bab44c15c34d606a2be8f953314188d6",
+                        "filesize": "118426",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.0": {
+                "name": "metatag 7.x-1.0",
+                "date": "1410984528",
+                "status": "published",
+                "version": "7.x-1.0",
+                "tag": "7.x-1.0",
+                "version_major": "1",
+                "version_patch": "0",
+                "release_link": "https:\/\/www.drupal.org\/project\/metatag\/releases\/7.x-1.0",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0.tar.gz",
+                "mdhash": "7e10c851772e72aa26d75352cada7dff",
+                "filesize": "92863",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes",
+                        "New features"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0.tar.gz",
+                        "date": "1410984528",
+                        "mdhash": "7e10c851772e72aa26d75352cada7dff",
+                        "filesize": "92863",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0.zip",
+                        "date": "1410984528",
+                        "mdhash": "72ffb70bccc374b596c5ed0e5a1adedc",
+                        "filesize": "118361",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.0-rc2": {
+                "name": "metatag 7.x-1.0-rc2",
+                "date": "1407246827",
+                "status": "published",
+                "version": "7.x-1.0-rc2",
+                "tag": "7.x-1.0-rc2",
+                "version_major": "1",
+                "version_patch": "0",
+                "version_extra": "rc2",
+                "release_link": "https:\/\/www.drupal.org\/project\/metatag\/releases\/7.x-1.0-rc2",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-rc2.tar.gz",
+                "mdhash": "e7e2da3545b86ff2bf33f982dbdd79a0",
+                "filesize": "91856",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes",
+                        "New features"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-rc2.tar.gz",
+                        "date": "1407246827",
+                        "mdhash": "e7e2da3545b86ff2bf33f982dbdd79a0",
+                        "filesize": "91856",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-rc2.zip",
+                        "date": "1407246827",
+                        "mdhash": "711a4853e1a91098ed9d50e153266c80",
+                        "filesize": "115487",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.0-rc1": {
+                "name": "metatag 7.x-1.0-rc1",
+                "date": "1405170827",
+                "status": "published",
+                "version": "7.x-1.0-rc1",
+                "tag": "7.x-1.0-rc1",
+                "version_major": "1",
+                "version_patch": "0",
+                "version_extra": "rc1",
+                "release_link": "https:\/\/www.drupal.org\/project\/metatag\/releases\/7.x-1.0-rc1",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-rc1.tar.gz",
+                "mdhash": "df8db97e33d0675cefa8b5298eed20ae",
+                "filesize": "87802",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes",
+                        "New features"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-rc1.tar.gz",
+                        "date": "1405170827",
+                        "mdhash": "df8db97e33d0675cefa8b5298eed20ae",
+                        "filesize": "87802",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-rc1.zip",
+                        "date": "1405170827",
+                        "mdhash": "5acff63777264ccc5af1c604273ae5e3",
+                        "filesize": "111311",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.0-beta9": {
+                "name": "metatag 7.x-1.0-beta9",
+                "date": "1390103304",
+                "status": "published",
+                "version": "7.x-1.0-beta9",
+                "tag": "7.x-1.0-beta9",
+                "version_major": "1",
+                "version_patch": "0",
+                "version_extra": "beta9",
+                "release_link": "https:\/\/www.drupal.org\/project\/metatag\/releases\/7.x-1.0-beta9",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-beta9.tar.gz",
+                "mdhash": "a4f3a000c0653e0a62cfd64751c2c5de",
+                "filesize": "82125",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes",
+                        "New features"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-beta9.tar.gz",
+                        "date": "1390103304",
+                        "mdhash": "a4f3a000c0653e0a62cfd64751c2c5de",
+                        "filesize": "82125",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-beta9.zip",
+                        "date": "1390103304",
+                        "mdhash": "5839906bc9ae97673867b3f950cdbb51",
+                        "filesize": "104069",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.0-beta8": {
+                "name": "metatag 7.x-1.0-beta8",
+                "date": "1389847405",
+                "status": "published",
+                "version": "7.x-1.0-beta8",
+                "tag": "7.x-1.0-beta8",
+                "version_major": "1",
+                "version_patch": "0",
+                "version_extra": "beta8",
+                "release_link": "https:\/\/www.drupal.org\/project\/metatag\/releases\/7.x-1.0-beta8",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-beta8.tar.gz",
+                "mdhash": "bc3406ab78ef09da879692b92b3bc16a",
+                "filesize": "81319",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes",
+                        "New features"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-beta8.tar.gz",
+                        "date": "1389847405",
+                        "mdhash": "bc3406ab78ef09da879692b92b3bc16a",
+                        "filesize": "81319",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-beta8.zip",
+                        "date": "1389847405",
+                        "mdhash": "35c13fb2531646bf9c69e90213941053",
+                        "filesize": "103225",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.0-beta7": {
+                "name": "metatag 7.x-1.0-beta7",
+                "date": "1366640119",
+                "status": "published",
+                "version": "7.x-1.0-beta7",
+                "tag": "7.x-1.0-beta7",
+                "version_major": "1",
+                "version_patch": "0",
+                "version_extra": "beta7",
+                "release_link": "https:\/\/www.drupal.org\/project\/metatag\/releases\/7.x-1.0-beta7",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-beta7.tar.gz",
+                "mdhash": "337ee492a689bc56f69da7015d0714b6",
+                "filesize": "65279",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-beta7.tar.gz",
+                        "date": "1366640119",
+                        "mdhash": "337ee492a689bc56f69da7015d0714b6",
+                        "filesize": "65279",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-beta7.zip",
+                        "date": "1366640119",
+                        "mdhash": "7044488b0747595ee773d46c2e5d07a8",
+                        "filesize": "85944",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.0-beta6": {
+                "name": "metatag 7.x-1.0-beta6",
+                "date": "1365938421",
+                "status": "published",
+                "version": "7.x-1.0-beta6",
+                "tag": "7.x-1.0-beta6",
+                "version_major": "1",
+                "version_patch": "0",
+                "version_extra": "beta6",
+                "release_link": "https:\/\/www.drupal.org\/project\/metatag\/releases\/7.x-1.0-beta6",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-beta6.tar.gz",
+                "mdhash": "80e4a5dc935016086167459e9c17e60a",
+                "filesize": "62825",
+                "terms": {
+                    "Release type": [
+                        "New features",
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-beta6.tar.gz",
+                        "date": "1365938421",
+                        "mdhash": "80e4a5dc935016086167459e9c17e60a",
+                        "filesize": "62825",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-beta6.zip",
+                        "date": "1365938421",
+                        "mdhash": "19c22de61233dd1c0d8c70e03d625fe8",
+                        "filesize": "83086",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.0-beta5": {
+                "name": "metatag 7.x-1.0-beta5",
+                "date": "1364088611",
+                "status": "published",
+                "version": "7.x-1.0-beta5",
+                "tag": "7.x-1.0-beta5",
+                "version_major": "1",
+                "version_patch": "0",
+                "version_extra": "beta5",
+                "release_link": "https:\/\/www.drupal.org\/project\/metatag\/releases\/7.x-1.0-beta5",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-beta5.tar.gz",
+                "mdhash": "e81833c37343fe28dc56d8bb2f6e186f",
+                "filesize": "56484",
+                "terms": {
+                    "Release type": [
+                        "New features",
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-beta5.tar.gz",
+                        "date": "1364088611",
+                        "mdhash": "e81833c37343fe28dc56d8bb2f6e186f",
+                        "filesize": "56484",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-beta5.zip",
+                        "date": "1364088611",
+                        "mdhash": "3025ea8fd52c32a700d61923dcab0dbe",
+                        "filesize": "72151",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.0-beta4": {
+                "name": "metatag 7.x-1.0-beta4",
+                "date": "1353209208",
+                "status": "published",
+                "version": "7.x-1.0-beta4",
+                "tag": "7.x-1.0-beta4",
+                "version_major": "1",
+                "version_patch": "0",
+                "version_extra": "beta4",
+                "release_link": "https:\/\/www.drupal.org\/project\/metatag\/releases\/7.x-1.0-beta4",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-beta4.tar.gz",
+                "mdhash": "5f8a28537037fa51d249ff4b0268c038",
+                "filesize": "45189",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-beta4.tar.gz",
+                        "date": "1353209208",
+                        "mdhash": "5f8a28537037fa51d249ff4b0268c038",
+                        "filesize": "45189",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-beta4.zip",
+                        "date": "1353209208",
+                        "mdhash": "4e5dd3848ed4e88d8f86ad74a4e2d994",
+                        "filesize": "59777",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.0-beta3": {
+                "name": "metatag 7.x-1.0-beta3",
+                "date": "1353078403",
+                "status": "published",
+                "version": "7.x-1.0-beta3",
+                "tag": "7.x-1.0-beta3",
+                "version_major": "1",
+                "version_patch": "0",
+                "version_extra": "beta3",
+                "release_link": "https:\/\/www.drupal.org\/project\/metatag\/releases\/7.x-1.0-beta3",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-beta3.tar.gz",
+                "mdhash": "063286599243956c55eb023ee3c895f4",
+                "filesize": "43276",
+                "terms": {
+                    "Release type": [
+                        "New features",
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-beta3.tar.gz",
+                        "date": "1353078403",
+                        "mdhash": "063286599243956c55eb023ee3c895f4",
+                        "filesize": "43276",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-beta3.zip",
+                        "date": "1353078403",
+                        "mdhash": "89ea8447bd7abe2758bd8db0c4e63f77",
+                        "filesize": "57666",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.0-beta2": {
+                "name": "metatag 7.x-1.0-beta2",
+                "date": "1351598517",
+                "status": "published",
+                "version": "7.x-1.0-beta2",
+                "tag": "7.x-1.0-beta2",
+                "version_major": "1",
+                "version_patch": "0",
+                "version_extra": "beta2",
+                "release_link": "https:\/\/www.drupal.org\/project\/metatag\/releases\/7.x-1.0-beta2",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-beta2.tar.gz",
+                "mdhash": "dda5aecd917a19be1b4a76dd113d9ca8",
+                "filesize": "37740",
+                "terms": {
+                    "Release type": [
+                        "New features",
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-beta2.tar.gz",
+                        "date": "1351598517",
+                        "mdhash": "dda5aecd917a19be1b4a76dd113d9ca8",
+                        "filesize": "37740",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-beta2.zip",
+                        "date": "1351598517",
+                        "mdhash": "90f5689c680871abcc951aa44ae90570",
+                        "filesize": "49908",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.0-beta1": {
+                "name": "metatag 7.x-1.0-beta1",
+                "date": "1350611221",
+                "status": "published",
+                "version": "7.x-1.0-beta1",
+                "tag": "7.x-1.0-beta1",
+                "version_major": "1",
+                "version_patch": "0",
+                "version_extra": "beta1",
+                "release_link": "https:\/\/www.drupal.org\/project\/metatag\/releases\/7.x-1.0-beta1",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-beta1.tar.gz",
+                "mdhash": "2a005f1dfc49bec167846ba57ca46c98",
+                "filesize": "35461",
+                "terms": {
+                    "Release type": [
+                        "New features",
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-beta1.tar.gz",
+                        "date": "1350611221",
+                        "mdhash": "2a005f1dfc49bec167846ba57ca46c98",
+                        "filesize": "35461",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-beta1.zip",
+                        "date": "1350611221",
+                        "mdhash": "9dbb37dd0d8d67f00a7870516e54ca56",
+                        "filesize": "46821",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.0-alpha8": {
+                "name": "metatag 7.x-1.0-alpha8",
+                "date": "1344705442",
+                "status": "published",
+                "version": "7.x-1.0-alpha8",
+                "tag": "7.x-1.0-alpha8",
+                "version_major": "1",
+                "version_patch": "0",
+                "version_extra": "alpha8",
+                "release_link": "https:\/\/www.drupal.org\/project\/metatag\/releases\/7.x-1.0-alpha8",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-alpha8.tar.gz",
+                "mdhash": "7a8afec87c734ff75e6f7d474eb1d7bb",
+                "filesize": "26612",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-alpha8.tar.gz",
+                        "date": "1344705442",
+                        "mdhash": "7a8afec87c734ff75e6f7d474eb1d7bb",
+                        "filesize": "26612",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-alpha8.zip",
+                        "date": "1344705442",
+                        "mdhash": "537093c1c34b41b3037cd760991ffdcc",
+                        "filesize": "33156",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.0-alpha7": {
+                "name": "metatag 7.x-1.0-alpha7",
+                "date": "1344200831",
+                "status": "published",
+                "version": "7.x-1.0-alpha7",
+                "tag": "7.x-1.0-alpha7",
+                "version_major": "1",
+                "version_patch": "0",
+                "version_extra": "alpha7",
+                "release_link": "https:\/\/www.drupal.org\/project\/metatag\/releases\/7.x-1.0-alpha7",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-alpha7.tar.gz",
+                "mdhash": "362fcee537d5ebcefa561383a0e56535",
+                "filesize": "26612",
+                "terms": {
+                    "Release type": [
+                        "New features",
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-alpha7.tar.gz",
+                        "date": "1344200831",
+                        "mdhash": "362fcee537d5ebcefa561383a0e56535",
+                        "filesize": "26612",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-alpha7.zip",
+                        "date": "1344200831",
+                        "mdhash": "d4ed67a55ff765cefe07a2ed3ac72e12",
+                        "filesize": "33160",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.0-alpha6": {
+                "name": "metatag 7.x-1.0-alpha6",
+                "date": "1335375980",
+                "status": "published",
+                "version": "7.x-1.0-alpha6",
+                "tag": "7.x-1.0-alpha6",
+                "version_major": "1",
+                "version_patch": "0",
+                "version_extra": "alpha6",
+                "release_link": "https:\/\/www.drupal.org\/project\/metatag\/releases\/7.x-1.0-alpha6",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-alpha6.tar.gz",
+                "mdhash": "fe3ffce39373e472bd58a15ff2979632",
+                "filesize": "26111",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-alpha6.tar.gz",
+                        "date": "1335375980",
+                        "mdhash": "fe3ffce39373e472bd58a15ff2979632",
+                        "filesize": "26111",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-alpha6.zip",
+                        "date": "1335375980",
+                        "mdhash": "d5e2bfa070e63fe526d1117074d4f50c",
+                        "filesize": "32493",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.0-alpha5": {
+                "name": "metatag 7.x-1.0-alpha5",
+                "date": "1332895560",
+                "status": "published",
+                "version": "7.x-1.0-alpha5",
+                "tag": "7.x-1.0-alpha5",
+                "version_major": "1",
+                "version_patch": "0",
+                "version_extra": "alpha5",
+                "release_link": "https:\/\/www.drupal.org\/project\/metatag\/releases\/7.x-1.0-alpha5",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-alpha5.tar.gz",
+                "mdhash": "5a16a1e4b34f9ec84a0e80d484066569",
+                "filesize": "26102",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-alpha5.tar.gz",
+                        "date": "1332895560",
+                        "mdhash": "5a16a1e4b34f9ec84a0e80d484066569",
+                        "filesize": "26102",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-alpha5.zip",
+                        "date": "1332895560",
+                        "mdhash": "6bea746801b8976fa41b8e56c6271399",
+                        "filesize": "32488",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.0-alpha4": {
+                "name": "metatag 7.x-1.0-alpha4",
+                "date": "1324568443",
+                "status": "published",
+                "version": "7.x-1.0-alpha4",
+                "tag": "7.x-1.0-alpha4",
+                "version_major": "1",
+                "version_patch": "0",
+                "version_extra": "alpha4",
+                "release_link": "https:\/\/www.drupal.org\/project\/metatag\/releases\/7.x-1.0-alpha4",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-alpha4.tar.gz",
+                "mdhash": "212cb45a278ef99aae871d67da81e2d1",
+                "filesize": "25776",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-alpha4.tar.gz",
+                        "date": "1324568443",
+                        "mdhash": "212cb45a278ef99aae871d67da81e2d1",
+                        "filesize": "25776",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-alpha4.zip",
+                        "date": "1324568443",
+                        "mdhash": "8d1f676e56ab4507bba15a1c5813bfec",
+                        "filesize": "32138",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.0-alpha3": {
+                "name": "metatag 7.x-1.0-alpha3",
+                "date": "1317392208",
+                "status": "published",
+                "version": "7.x-1.0-alpha3",
+                "tag": "7.x-1.0-alpha3",
+                "version_major": "1",
+                "version_patch": "0",
+                "version_extra": "alpha3",
+                "release_link": "https:\/\/www.drupal.org\/project\/metatag\/releases\/7.x-1.0-alpha3",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-alpha3.tar.gz",
+                "mdhash": "f2c808b23dc0d1f578cdd867ae011781",
+                "filesize": "25526",
+                "terms": {
+                    "Release type": [
+                        "New features",
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-alpha3.tar.gz",
+                        "date": "1317392208",
+                        "mdhash": "f2c808b23dc0d1f578cdd867ae011781",
+                        "filesize": "25526",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-alpha3.zip",
+                        "date": "1317392209",
+                        "mdhash": "abd580f4cf892f30ace31fbd50f4ded3",
+                        "filesize": "32476",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.0-alpha2": {
+                "name": "metatag 7.x-1.0-alpha2",
+                "date": "1316466707",
+                "status": "published",
+                "version": "7.x-1.0-alpha2",
+                "tag": "7.x-1.0-alpha2",
+                "version_major": "1",
+                "version_patch": "0",
+                "version_extra": "alpha2",
+                "release_link": "https:\/\/www.drupal.org\/project\/metatag\/releases\/7.x-1.0-alpha2",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-alpha2.tar.gz",
+                "mdhash": "76b25a1b4b48a5f905cb5661c84f8b5e",
+                "filesize": "25340",
+                "terms": [],
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-alpha2.tar.gz",
+                        "date": "1316466707",
+                        "mdhash": "76b25a1b4b48a5f905cb5661c84f8b5e",
+                        "filesize": "25340",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.0-alpha2.zip",
+                        "date": "1316466707",
+                        "mdhash": "3a7701ed6ce76078abfc93fb6fc901d8",
+                        "filesize": "32274",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.0-alpha1": {
+                "name": "metatags 7.x-1.0-alpha1",
+                "date": "1316170605",
+                "status": "published",
+                "version": "7.x-1.0-alpha1",
+                "tag": "7.x-1.0-alpha1",
+                "version_major": "1",
+                "version_patch": "0",
+                "version_extra": "alpha1",
+                "release_link": "https:\/\/www.drupal.org\/project\/metatag\/releases\/7.x-1.0-alpha1",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatags-7.x-1.0-alpha1.tar.gz",
+                "mdhash": "287e16a8ab63bddab4cf08d01f6b3e79",
+                "filesize": "23996",
+                "terms": {
+                    "Release type": [
+                        "New features",
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatags-7.x-1.0-alpha1.tar.gz",
+                        "date": "1316170605",
+                        "mdhash": "287e16a8ab63bddab4cf08d01f6b3e79",
+                        "filesize": "23996",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatags-7.x-1.0-alpha1.zip",
+                        "date": "1316170605",
+                        "mdhash": "3ec6b1b8502d8574181f2655ccfc67ab",
+                        "filesize": "30989",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.0-unstable3": {
+                "name": "metatags 7.x-1.0-unstable3",
+                "date": "1315942905",
+                "status": "published",
+                "version": "7.x-1.0-unstable3",
+                "tag": "7.x-1.0-unstable3",
+                "version_major": "1",
+                "version_patch": "0",
+                "version_extra": "unstable3",
+                "release_link": "https:\/\/www.drupal.org\/project\/metatag\/releases\/7.x-1.0-unstable3",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatags-7.x-1.0-unstable3.tar.gz",
+                "mdhash": "e921d0d4e6b104402d2fd76a442d4d91",
+                "filesize": "20218",
+                "terms": [],
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatags-7.x-1.0-unstable3.tar.gz",
+                        "date": "1315942905",
+                        "mdhash": "e921d0d4e6b104402d2fd76a442d4d91",
+                        "filesize": "20218",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatags-7.x-1.0-unstable3.zip",
+                        "date": "1315942905",
+                        "mdhash": "462151f85c96cb3ebb58a4807e937c23",
+                        "filesize": "26450",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.0-unstable2": {
+                "name": "metatags 7.x-1.0-unstable2",
+                "date": "1314652920",
+                "status": "published",
+                "version": "7.x-1.0-unstable2",
+                "tag": "7.x-1.0-unstable2",
+                "version_major": "1",
+                "version_patch": "0",
+                "version_extra": "unstable2",
+                "release_link": "https:\/\/www.drupal.org\/project\/metatag\/releases\/7.x-1.0-unstable2",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatags-7.x-1.0-unstable2.tar.gz",
+                "mdhash": "ee7b3ef9b3e030a789f990142114cfa8",
+                "filesize": "16446",
+                "terms": {
+                    "Release type": [
+                        "New features",
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatags-7.x-1.0-unstable2.tar.gz",
+                        "date": "1314652920",
+                        "mdhash": "ee7b3ef9b3e030a789f990142114cfa8",
+                        "filesize": "16446",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatags-7.x-1.0-unstable2.zip",
+                        "date": "1314652920",
+                        "mdhash": "2080bd9a26f060b4ffd78b9241a138ff",
+                        "filesize": "20910",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.0-unstable1": {
+                "name": "metatags 7.x-1.0-unstable1",
+                "date": "1313764919",
+                "status": "published",
+                "version": "7.x-1.0-unstable1",
+                "tag": "7.x-1.0-unstable1",
+                "version_major": "1",
+                "version_patch": "0",
+                "version_extra": "unstable1",
+                "release_link": "https:\/\/www.drupal.org\/project\/metatag\/releases\/7.x-1.0-unstable1",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatags-7.x-1.0-unstable1.tar.gz",
+                "mdhash": "a74310b2ab3778840b7a459fa1629549",
+                "filesize": "13701",
+                "terms": [],
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatags-7.x-1.0-unstable1.tar.gz",
+                        "date": "1313764919",
+                        "mdhash": "a74310b2ab3778840b7a459fa1629549",
+                        "filesize": "13701",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatags-7.x-1.0-unstable1.zip",
+                        "date": "1313764919",
+                        "mdhash": "14e8683134443de6a04dc6b91eafed94",
+                        "filesize": "16198",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": []
+            },
+            "7.x-1.x-dev": {
+                "name": "metatag 7.x-1.x-dev",
+                "date": "1499110742",
+                "status": "published",
+                "version": "7.x-1.x-dev",
+                "tag": "7.x-1.x",
+                "version_major": "1",
+                "version_extra": "dev",
+                "release_link": "https:\/\/www.drupal.org\/project\/metatag\/releases\/7.x-1.x-dev",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.x-dev.tar.gz",
+                "mdhash": "96d091de0648a9e4938482f3f4f5eda0",
+                "filesize": "226296",
+                "terms": [],
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.x-dev.tar.gz",
+                        "date": "1499110742",
+                        "mdhash": "96d091de0648a9e4938482f3f4f5eda0",
+                        "filesize": "226296",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/metatag-7.x-1.x-dev.zip",
+                        "date": "1499110742",
+                        "mdhash": "6db61851ae75f44a4a0331556089c3af",
+                        "filesize": "327487",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": [
+                    "Development"
+                ]
+            }
+        },
+        "candidate_version": "7.x-1.22",
         "status_msg": "Update available",
         "updateable": true
     },
