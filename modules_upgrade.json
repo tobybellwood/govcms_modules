@@ -32663,7 +32663,7 @@
             },
             "7.x-1.x-dev": {
                 "name": "password_policy 7.x-1.x-dev",
-                "date": "1497646142",
+                "date": "1499463241",
                 "status": "published",
                 "version": "7.x-1.x-dev",
                 "tag": "7.x-1.x",
@@ -32671,22 +32671,22 @@
                 "version_extra": "dev",
                 "release_link": "https:\/\/www.drupal.org\/project\/password_policy\/releases\/7.x-1.x-dev",
                 "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/password_policy-7.x-1.x-dev.tar.gz",
-                "mdhash": "da30d836c54a4c8fb270482bc4a6425f",
-                "filesize": "49246",
+                "mdhash": "ee79ceac9e98e3c2bd8ac15031f5ba0d",
+                "filesize": "49264",
                 "terms": [],
                 "files": [
                     {
                         "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/password_policy-7.x-1.x-dev.tar.gz",
-                        "date": "1497646142",
-                        "mdhash": "da30d836c54a4c8fb270482bc4a6425f",
-                        "filesize": "49246",
+                        "date": "1499463241",
+                        "mdhash": "ee79ceac9e98e3c2bd8ac15031f5ba0d",
+                        "filesize": "49264",
                         "archive_type": "tar.gz"
                     },
                     {
                         "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/password_policy-7.x-1.x-dev.zip",
-                        "date": "1497646142",
-                        "mdhash": "9ed91a75f26d6f340de4f50d44d24723",
-                        "filesize": "67219",
+                        "date": "1499463241",
+                        "mdhash": "76cae4a8a1f2b3f94070e22d41f42962",
+                        "filesize": "67244",
                         "archive_type": "zip"
                     }
                 ],
