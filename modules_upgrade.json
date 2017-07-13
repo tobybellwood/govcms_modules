@@ -6226,7 +6226,7 @@
             },
             "7.x-1.x-dev": {
                 "name": "bean 7.x-1.x-dev",
-                "date": "1483309142",
+                "date": "1499880543",
                 "status": "published",
                 "version": "7.x-1.x-dev",
                 "tag": "7.x-1.x",
@@ -6234,22 +6234,22 @@
                 "version_extra": "dev",
                 "release_link": "https:\/\/www.drupal.org\/project\/bean\/releases\/7.x-1.x-dev",
                 "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/bean-7.x-1.x-dev.tar.gz",
-                "mdhash": "7f2449adc3ad7e2cf773aab3bd392ecf",
-                "filesize": "54930",
+                "mdhash": "8150989840a614891cf93453a0271041",
+                "filesize": "55095",
                 "terms": [],
                 "files": [
                     {
                         "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/bean-7.x-1.x-dev.tar.gz",
-                        "date": "1483309142",
-                        "mdhash": "7f2449adc3ad7e2cf773aab3bd392ecf",
-                        "filesize": "54930",
+                        "date": "1499880543",
+                        "mdhash": "8150989840a614891cf93453a0271041",
+                        "filesize": "55095",
                         "archive_type": "tar.gz"
                     },
                     {
                         "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/bean-7.x-1.x-dev.zip",
-                        "date": "1483309142",
-                        "mdhash": "c0b21f08362066e202e70b1f65a5a70d",
-                        "filesize": "74065",
+                        "date": "1499880543",
+                        "mdhash": "b23db63a94fce853fbcf4c69c76cc4ea",
+                        "filesize": "74270",
                         "archive_type": "zip"
                     }
                 ],
@@ -24835,7 +24835,7 @@
             },
             "7.x-1.x-dev": {
                 "name": "link 7.x-1.x-dev",
-                "date": "1499194442",
+                "date": "1499889242",
                 "status": "published",
                 "version": "7.x-1.x-dev",
                 "tag": "7.x-1.x",
@@ -24843,22 +24843,22 @@
                 "version_extra": "dev",
                 "release_link": "https:\/\/www.drupal.org\/project\/link\/releases\/7.x-1.x-dev",
                 "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/link-7.x-1.x-dev.tar.gz",
-                "mdhash": "d3cc2d1d579cc00a134e258dcc9ab81a",
-                "filesize": "37964",
+                "mdhash": "0e45cfac1d902dcd8306ea1d4da60e7c",
+                "filesize": "38002",
                 "terms": [],
                 "files": [
                     {
                         "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/link-7.x-1.x-dev.tar.gz",
-                        "date": "1499194442",
-                        "mdhash": "d3cc2d1d579cc00a134e258dcc9ab81a",
-                        "filesize": "37964",
+                        "date": "1499889242",
+                        "mdhash": "0e45cfac1d902dcd8306ea1d4da60e7c",
+                        "filesize": "38002",
                         "archive_type": "tar.gz"
                     },
                     {
                         "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/link-7.x-1.x-dev.zip",
-                        "date": "1499194442",
-                        "mdhash": "da0ac3618bb31c150a7c5f310343231c",
-                        "filesize": "48071",
+                        "date": "1499889242",
+                        "mdhash": "4c666b8b937570f663df62ee5570c6d0",
+                        "filesize": "48090",
                         "archive_type": "zip"
                     }
                 ],
