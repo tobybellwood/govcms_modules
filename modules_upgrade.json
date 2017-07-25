@@ -17768,7 +17768,7 @@
         "existing_major": "1",
         "status": 4,
         "datestamp": "1413924830",
-        "latest_version": "7.x-1.5-beta1",
+        "latest_version": "7.x-1.5-beta2",
         "recommended": "7.x-1.4",
         "title": "Link",
         "short_name": "link",
@@ -17795,6 +17795,44 @@
             ]
         },
         "releases": {
+            "7.x-1.5-beta2": {
+                "name": "link 7.x-1.5-beta2",
+                "date": "1500985442",
+                "status": "published",
+                "version": "7.x-1.5-beta2",
+                "tag": "7.x-1.5-beta2",
+                "version_major": "1",
+                "version_patch": "5",
+                "version_extra": "beta2",
+                "release_link": "https:\/\/www.drupal.org\/project\/link\/releases\/7.x-1.5-beta2",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/link-7.x-1.5-beta2.tar.gz",
+                "mdhash": "7ffe7148234f8c237a4893abd82c8e0e",
+                "filesize": "38156",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/link-7.x-1.5-beta2.tar.gz",
+                        "date": "1500985442",
+                        "mdhash": "7ffe7148234f8c237a4893abd82c8e0e",
+                        "filesize": "38156",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/link-7.x-1.5-beta2.zip",
+                        "date": "1500985442",
+                        "mdhash": "405872bcdf5c27bce5e2605bb62ddd40",
+                        "filesize": "48248",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": [
+                    "Supported"
+                ]
+            },
             "7.x-1.5-beta1": {
                 "name": "link 7.x-1.5-beta1",
                 "date": "1499171942",
@@ -17829,9 +17867,7 @@
                         "archive_type": "zip"
                     }
                 ],
-                "release_status": [
-                    "Supported"
-                ]
+                "release_status": []
             },
             "7.x-1.4": {
                 "name": "link 7.x-1.4",
@@ -18154,7 +18190,7 @@
             },
             "7.x-1.x-dev": {
                 "name": "link 7.x-1.x-dev",
-                "date": "1500493443",
+                "date": "1501009143",
                 "status": "published",
                 "version": "7.x-1.x-dev",
                 "tag": "7.x-1.x",
@@ -18162,22 +18198,22 @@
                 "version_extra": "dev",
                 "release_link": "https:\/\/www.drupal.org\/project\/link\/releases\/7.x-1.x-dev",
                 "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/link-7.x-1.x-dev.tar.gz",
-                "mdhash": "e2857b5d74e174f91c031c5697f88f72",
-                "filesize": "38158",
+                "mdhash": "6e2158b32e400d282191f640b28286e3",
+                "filesize": "38512",
                 "terms": [],
                 "files": [
                     {
                         "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/link-7.x-1.x-dev.tar.gz",
-                        "date": "1500493443",
-                        "mdhash": "e2857b5d74e174f91c031c5697f88f72",
-                        "filesize": "38158",
+                        "date": "1501009143",
+                        "mdhash": "6e2158b32e400d282191f640b28286e3",
+                        "filesize": "38512",
                         "archive_type": "tar.gz"
                     },
                     {
                         "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/link-7.x-1.x-dev.zip",
-                        "date": "1500493443",
-                        "mdhash": "24b79380e7ec7b1a4e30562996bca9e2",
-                        "filesize": "48253",
+                        "date": "1501009143",
+                        "mdhash": "1deab73aeeb17df46228f2a0b50ef755",
+                        "filesize": "48481",
                         "archive_type": "zip"
                     }
                 ],
