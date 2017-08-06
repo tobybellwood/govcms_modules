@@ -15407,7 +15407,7 @@
             },
             "7.x-2.x-dev": {
                 "name": "file_entity 7.x-2.x-dev",
-                "date": "1501184042",
+                "date": "1501934644",
                 "status": "published",
                 "version": "7.x-2.x-dev",
                 "tag": "7.x-2.x",
@@ -15415,22 +15415,22 @@
                 "version_extra": "dev",
                 "release_link": "https:\/\/www.drupal.org\/project\/file_entity\/releases\/7.x-2.x-dev",
                 "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/file_entity-7.x-2.x-dev.tar.gz",
-                "mdhash": "e977b6a00f1e9baf313bdcca895a9120",
-                "filesize": "101290",
+                "mdhash": "800550ab8dcd84cd9ec591e5fee24d0e",
+                "filesize": "101717",
                 "terms": [],
                 "files": [
                     {
                         "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/file_entity-7.x-2.x-dev.tar.gz",
-                        "date": "1501184042",
-                        "mdhash": "e977b6a00f1e9baf313bdcca895a9120",
-                        "filesize": "101290",
+                        "date": "1501934644",
+                        "mdhash": "800550ab8dcd84cd9ec591e5fee24d0e",
+                        "filesize": "101717",
                         "archive_type": "tar.gz"
                     },
                     {
                         "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/file_entity-7.x-2.x-dev.zip",
-                        "date": "1501184042",
-                        "mdhash": "094fc39502f041c0067e0c2708ddc9b0",
-                        "filesize": "122941",
+                        "date": "1501934644",
+                        "mdhash": "109dd35ca5b10e52108e75a2ba608baa",
+                        "filesize": "123375",
                         "archive_type": "zip"
                     }
                 ],
@@ -18845,8 +18845,8 @@
         "existing_major": "2",
         "status": 4,
         "datestamp": "1495030417",
-        "latest_version": "7.x-2.9",
-        "recommended": "7.x-2.9",
+        "latest_version": "7.x-2.10",
+        "recommended": "7.x-2.10",
         "title": "Media",
         "short_name": "media",
         "type": "project_module",
@@ -18872,6 +18872,44 @@
             ]
         },
         "releases": {
+            "7.x-3.0-beta5": {
+                "name": "media 7.x-3.0-beta5",
+                "date": "1501961044",
+                "status": "published",
+                "version": "7.x-3.0-beta5",
+                "tag": "7.x-3.0-beta5",
+                "version_major": "3",
+                "version_patch": "0",
+                "version_extra": "beta5",
+                "release_link": "https:\/\/www.drupal.org\/project\/media\/releases\/7.x-3.0-beta5",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/media-7.x-3.0-beta5.tar.gz",
+                "mdhash": "0fffdf6b4b930c8a07be17694603be51",
+                "filesize": "143947",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/media-7.x-3.0-beta5.tar.gz",
+                        "date": "1501961044",
+                        "mdhash": "0fffdf6b4b930c8a07be17694603be51",
+                        "filesize": "143947",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/media-7.x-3.0-beta5.zip",
+                        "date": "1501961044",
+                        "mdhash": "810b1c1fb50c9a8c375ea24284430c7c",
+                        "filesize": "193173",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": [
+                    "Supported"
+                ]
+            },
             "7.x-3.0-beta4": {
                 "name": "media 7.x-3.0-beta4",
                 "date": "1499174943",
@@ -18907,9 +18945,7 @@
                         "archive_type": "zip"
                     }
                 ],
-                "release_status": [
-                    "Supported"
-                ]
+                "release_status": []
             },
             "7.x-3.0-beta3": {
                 "name": "media 7.x-3.0-beta3",
@@ -19270,6 +19306,44 @@
                 ],
                 "release_status": []
             },
+            "7.x-2.10": {
+                "name": "media 7.x-2.10",
+                "date": "1501961344",
+                "status": "published",
+                "version": "7.x-2.10",
+                "tag": "7.x-2.10",
+                "version_major": "2",
+                "version_patch": "10",
+                "release_link": "https:\/\/www.drupal.org\/project\/media\/releases\/7.x-2.10",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/media-7.x-2.10.tar.gz",
+                "mdhash": "b2f26d5599a02caea60ba03e9ee2d094",
+                "filesize": "143456",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/media-7.x-2.10.tar.gz",
+                        "date": "1501961344",
+                        "mdhash": "b2f26d5599a02caea60ba03e9ee2d094",
+                        "filesize": "143456",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/media-7.x-2.10.zip",
+                        "date": "1501961344",
+                        "mdhash": "6c48145efa80cf234e0d66c6890d743f",
+                        "filesize": "192612",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": [
+                    "Supported",
+                    "Recommended"
+                ]
+            },
             "7.x-2.9": {
                 "name": "media 7.x-2.9",
                 "date": "1499174642",
@@ -19304,10 +19378,7 @@
                         "archive_type": "zip"
                     }
                 ],
-                "release_status": [
-                    "Supported",
-                    "Recommended"
-                ]
+                "release_status": []
             },
             "7.x-2.8": {
                 "name": "media 7.x-2.8",
@@ -21518,7 +21589,7 @@
             },
             "7.x-3.x-dev": {
                 "name": "media 7.x-3.x-dev",
-                "date": "1501619042",
+                "date": "1501960444",
                 "status": "published",
                 "version": "7.x-3.x-dev",
                 "tag": "7.x-3.x",
@@ -21526,8 +21597,8 @@
                 "version_extra": "dev",
                 "release_link": "https:\/\/www.drupal.org\/project\/media\/releases\/7.x-3.x-dev",
                 "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/media-7.x-3.x-dev.tar.gz",
-                "mdhash": "ad2a829e8332e5b2c72b5962e14e3654",
-                "filesize": "143727",
+                "mdhash": "159066b3470fdfd462dee16af8dee643",
+                "filesize": "143973",
                 "terms": {
                     "Release type": [
                         "Bug fixes",
@@ -21537,16 +21608,16 @@
                 "files": [
                     {
                         "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/media-7.x-3.x-dev.tar.gz",
-                        "date": "1501619042",
-                        "mdhash": "ad2a829e8332e5b2c72b5962e14e3654",
-                        "filesize": "143727",
+                        "date": "1501960444",
+                        "mdhash": "159066b3470fdfd462dee16af8dee643",
+                        "filesize": "143973",
                         "archive_type": "tar.gz"
                     },
                     {
                         "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/media-7.x-3.x-dev.zip",
-                        "date": "1501619042",
-                        "mdhash": "90e6505920f20a8bed208c6fcaec5159",
-                        "filesize": "192928",
+                        "date": "1501960444",
+                        "mdhash": "ae96458f45b5a15cacc5ada1988673e2",
+                        "filesize": "193228",
                         "archive_type": "zip"
                     }
                 ],
@@ -21556,7 +21627,7 @@
             },
             "7.x-2.x-dev": {
                 "name": "media 7.x-2.x-dev",
-                "date": "1501619042",
+                "date": "1501960145",
                 "status": "published",
                 "version": "7.x-2.x-dev",
                 "tag": "7.x-2.x",
@@ -21564,8 +21635,8 @@
                 "version_extra": "dev",
                 "release_link": "https:\/\/www.drupal.org\/project\/media\/releases\/7.x-2.x-dev",
                 "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/media-7.x-2.x-dev.tar.gz",
-                "mdhash": "87d9f56ffa2e96760e90c28d0bc32994",
-                "filesize": "143478",
+                "mdhash": "e7944abba9cf15d01926d07e23d66542",
+                "filesize": "143491",
                 "terms": {
                     "Release type": [
                         "New features",
@@ -21575,16 +21646,16 @@
                 "files": [
                     {
                         "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/media-7.x-2.x-dev.tar.gz",
-                        "date": "1501619042",
-                        "mdhash": "87d9f56ffa2e96760e90c28d0bc32994",
-                        "filesize": "143478",
+                        "date": "1501960145",
+                        "mdhash": "e7944abba9cf15d01926d07e23d66542",
+                        "filesize": "143491",
                         "archive_type": "tar.gz"
                     },
                     {
                         "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/media-7.x-2.x-dev.zip",
-                        "date": "1501619042",
-                        "mdhash": "fdad35c297e0e054cb0fd180003fbe4e",
-                        "filesize": "192646",
+                        "date": "1501960145",
+                        "mdhash": "f8fef351f1d02aeb59c570f8645d8575",
+                        "filesize": "192654",
                         "archive_type": "zip"
                     }
                 ],
@@ -21626,7 +21697,7 @@
                 ]
             }
         },
-        "candidate_version": "7.x-2.9",
+        "candidate_version": "7.x-2.10",
         "status_msg": "Update available",
         "updateable": true
     },
