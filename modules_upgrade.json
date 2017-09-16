@@ -10631,8 +10631,8 @@
         "existing_major": "1",
         "status": 4,
         "datestamp": "1424210033",
-        "latest_version": "7.x-1.0",
-        "recommended": "7.x-1.0",
+        "latest_version": "7.x-1.1",
+        "recommended": "7.x-1.1",
         "title": "Focal Point",
         "short_name": "focal_point",
         "type": "project_module",
@@ -10658,6 +10658,44 @@
             ]
         },
         "releases": {
+            "7.x-1.1": {
+                "name": "focal_point 7.x-1.1",
+                "date": "1505151243",
+                "status": "published",
+                "version": "7.x-1.1",
+                "tag": "7.x-1.1",
+                "version_major": "1",
+                "version_patch": "1",
+                "release_link": "https:\/\/www.drupal.org\/project\/focal_point\/releases\/7.x-1.1",
+                "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/focal_point-7.x-1.1.tar.gz",
+                "mdhash": "b7bb77dace9d5eb1f3e5131c73f1faed",
+                "filesize": "522246",
+                "terms": {
+                    "Release type": [
+                        "Bug fixes"
+                    ]
+                },
+                "files": [
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/focal_point-7.x-1.1.tar.gz",
+                        "date": "1505151243",
+                        "mdhash": "b7bb77dace9d5eb1f3e5131c73f1faed",
+                        "filesize": "522246",
+                        "archive_type": "tar.gz"
+                    },
+                    {
+                        "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/focal_point-7.x-1.1.zip",
+                        "date": "1505151243",
+                        "mdhash": "196a52c3ee2c0ee74dc979175878662c",
+                        "filesize": "526734",
+                        "archive_type": "zip"
+                    }
+                ],
+                "release_status": [
+                    "Supported",
+                    "Recommended"
+                ]
+            },
             "7.x-1.0": {
                 "name": "focal_point 7.x-1.0",
                 "date": "1472742839",
@@ -10691,10 +10729,7 @@
                         "archive_type": "zip"
                     }
                 ],
-                "release_status": [
-                    "Supported",
-                    "Recommended"
-                ]
+                "release_status": []
             },
             "7.x-1.0-beta6": {
                 "name": "focal_point 7.x-1.0-beta6",
@@ -11058,7 +11093,7 @@
             },
             "7.x-1.x-dev": {
                 "name": "focal_point 7.x-1.x-dev",
-                "date": "1487167385",
+                "date": "1505150343",
                 "status": "published",
                 "version": "7.x-1.x-dev",
                 "tag": "7.x-1.x",
@@ -11066,8 +11101,8 @@
                 "version_extra": "dev",
                 "release_link": "https:\/\/www.drupal.org\/project\/focal_point\/releases\/7.x-1.x-dev",
                 "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/focal_point-7.x-1.x-dev.tar.gz",
-                "mdhash": "cabccbad5767be23b5801bdcebf39967",
-                "filesize": "522245",
+                "mdhash": "88fb04b93ace2dfae37063e18db92572",
+                "filesize": "522247",
                 "terms": {
                     "Release type": [
                         "New features"
@@ -11076,16 +11111,16 @@
                 "files": [
                     {
                         "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/focal_point-7.x-1.x-dev.tar.gz",
-                        "date": "1487167385",
-                        "mdhash": "cabccbad5767be23b5801bdcebf39967",
-                        "filesize": "522245",
+                        "date": "1505150343",
+                        "mdhash": "88fb04b93ace2dfae37063e18db92572",
+                        "filesize": "522247",
                         "archive_type": "tar.gz"
                     },
                     {
                         "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/focal_point-7.x-1.x-dev.zip",
-                        "date": "1487167385",
-                        "mdhash": "788530862a65e87ae4d746b4400363c0",
-                        "filesize": "526736",
+                        "date": "1505150343",
+                        "mdhash": "c0d17b61f154c95c48e381580f6491ee",
+                        "filesize": "526740",
                         "archive_type": "zip"
                     }
                 ],
@@ -11094,7 +11129,7 @@
                 ]
             }
         },
-        "candidate_version": "7.x-1.0",
+        "candidate_version": "7.x-1.1",
         "status_msg": "Update available",
         "updateable": true
     },
@@ -22331,7 +22366,7 @@
             },
             "7.x-2.x-dev": {
                 "name": "password_policy 7.x-2.x-dev",
-                "date": "1503693844",
+                "date": "1505164144",
                 "status": "published",
                 "version": "7.x-2.x-dev",
                 "tag": "7.x-2.x",
@@ -22339,8 +22374,8 @@
                 "version_extra": "dev",
                 "release_link": "https:\/\/www.drupal.org\/project\/password_policy\/releases\/7.x-2.x-dev",
                 "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/password_policy-7.x-2.x-dev.tar.gz",
-                "mdhash": "a452d8c6c5fafe3a885493b80bb6a65a",
-                "filesize": "31148",
+                "mdhash": "bb89bbb9671268b5dcf3456abecfc56d",
+                "filesize": "31147",
                 "terms": {
                     "Release type": [
                         "New features",
@@ -22350,16 +22385,16 @@
                 "files": [
                     {
                         "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/password_policy-7.x-2.x-dev.tar.gz",
-                        "date": "1503693844",
-                        "mdhash": "a452d8c6c5fafe3a885493b80bb6a65a",
-                        "filesize": "31148",
+                        "date": "1505164144",
+                        "mdhash": "bb89bbb9671268b5dcf3456abecfc56d",
+                        "filesize": "31147",
                         "archive_type": "tar.gz"
                     },
                     {
                         "download_link": "https:\/\/ftp.drupal.org\/files\/projects\/password_policy-7.x-2.x-dev.zip",
-                        "date": "1503693844",
-                        "mdhash": "91f14215bb031987d6dcf445b3c7b86d",
-                        "filesize": "45852",
+                        "date": "1505164144",
+                        "mdhash": "307a5e59ab100be0f723da77e8c2ca2c",
+                        "filesize": "45849",
                         "archive_type": "zip"
                     }
                 ],
